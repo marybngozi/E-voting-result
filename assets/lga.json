@@ -1,0 +1,4664 @@
+[
+{
+    "LGA" : "Aba North",
+    "State" : "Abia ",
+    "FC" : "FC/001/AB",
+    "SD" : "SD/003/AB"
+},
+{
+    "LGA" : "Aba South",
+    "State" : "Abia ",
+    "FC" : "FC/001/AB",
+    "SD" : "SD/003/AB"
+},
+{
+    "LGA" : "Arochukwu",
+    "State" : "Abia ",
+    "FC" : "FC/002/AB",
+    "SD" : "SD/001/AB"
+},
+{
+    "LGA" : "Bende",
+    "State" : "Abia ",
+    "FC" : "FC/003/AB",
+    "SD" : "SD/001/AB"
+},
+{
+    "LGA" : "Ikwuano",
+    "State" : "Abia ",
+    "FC" : "FC/007/AB",
+    "SD" : "SD/002/AB"
+},
+{
+    "LGA" : "Isiala Ngwa North",
+    "State" : "Abia ",
+    "FC" : "FC/004/AB",
+    "SD" : "SD/002/AB"
+},
+{
+    "LGA" : "Isiala Ngwa South",
+    "State" : "Abia ",
+    "FC" : "FC/004/AB",
+    "SD" : "SD/002/AB"
+},
+{
+    "LGA" : "Isuikwuato",
+    "State" : "Abia ",
+    "FC" : "FC/005/AB",
+    "SD" : "SD/001/AB"
+},
+{
+    "LGA" : "Obi Ngwa",
+    "State" : "Abia ",
+    "FC" : "FC/006/AB",
+    "SD" : "SD/003/AB"
+},
+{
+    "LGA" : "Ohafia",
+    "State" : "Abia ",
+    "FC" : "FC/002/AB",
+    "SD" : "SD/001/AB"
+},
+{
+    "LGA" : "Osisioma",
+    "State" : "Abia ",
+    "FC" : "FC/006/AB",
+    "SD" : "SD/003/AB"
+},
+{
+    "LGA" : "Ugwunagbo",
+    "State" : "Abia ",
+    "FC" : "FC/006/AB",
+    "SD" : "SD/003/AB"
+},
+{
+    "LGA" : "Ukwa East",
+    "State" : "Abia ",
+    "FC" : "FC/008/AB",
+    "SD" : "SD/003/AB"
+},
+{
+    "LGA" : "Ukwa West",
+    "State" : "Abia ",
+    "FC" : "FC/008/AB",
+    "SD" : "SD/003/AB"
+},
+{
+    "LGA" : "Umuahia North",
+    "State" : "Abia ",
+    "FC" : "FC/007/AB",
+    "SD" : "SD/002/AB"
+},
+{
+    "LGA" : "Umuahia South",
+    "State" : "Abia ",
+    "FC" : "FC/007/AB",
+    "SD" : "SD/002/AB"
+},
+{
+    "LGA" : "Umu Nneochi",
+    "State" : "Abia ",
+    "FC" : "FC/005/AB",
+    "SD" : "SD/001/AB"
+},
+{
+    "LGA" : "Demsa",
+    "State" : "Adamawa ",
+    "FC" : "FC/009/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Fufure",
+    "State" : "Adamawa ",
+    "FC" : "FC/010/AD",
+    "SD" : "SD/006/AD"
+},
+{
+    "LGA" : "Ganye",
+    "State" : "Adamawa ",
+    "FC" : "FC/011/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Gayuk",
+    "State" : "Adamawa ",
+    "FC" : "FC/013/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Gombi",
+    "State" : "Adamawa ",
+    "FC" : "FC/012/AD",
+    "SD" : "SD/006/AD"
+},
+{
+    "LGA" : "Grie",
+    "State" : "Adamawa ",
+    "FC" : "FC/016/AD",
+    "SD" : "SD/006/AD"
+},
+{
+    "LGA" : "Hong",
+    "State" : "Adamawa ",
+    "FC" : "FC/012/AD",
+    "SD" : "SD/006/AD"
+},
+{
+    "LGA" : "Jada",
+    "State" : "Adamawa ",
+    "FC" : "FC/011/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Lamurde",
+    "State" : "Adamawa ",
+    "FC" : "FC/009/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Madagali",
+    "State" : "Adamawa ",
+    "FC" : "FC/014/AD",
+    "SD" : "SD/004/AD"
+},
+{
+    "LGA" : "Maiha",
+    "State" : "Adamawa ",
+    "FC" : "FC/015/AD",
+    "SD" : "SD/004/AD"
+},
+{
+    "LGA" : "Mayo Belwa",
+    "State" : "Adamawa ",
+    "FC" : "FC/011/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Michika",
+    "State" : "Adamawa ",
+    "FC" : "FC/014/AD",
+    "SD" : "SD/004/AD"
+},
+{
+    "LGA" : "Mubi North",
+    "State" : "Adamawa ",
+    "FC" : "FC/015/AD",
+    "SD" : "SD/004/AD"
+},
+{
+    "LGA" : "Mubi South",
+    "State" : "Adamawa ",
+    "FC" : "FC/015/AD",
+    "SD" : "SD/004/AD"
+},
+{
+    "LGA" : "Numan",
+    "State" : "Adamawa ",
+    "FC" : "FC/009/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Shelleng",
+    "State" : "Adamawa ",
+    "FC" : "FC/013/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Song",
+    "State" : "Adamawa ",
+    "FC" : "FC/010/AD",
+    "SD" : "SD/006/AD"
+},
+{
+    "LGA" : "Toungo",
+    "State" : "Adamawa ",
+    "FC" : "FC/011/AD",
+    "SD" : "SD/005/AD"
+},
+{
+    "LGA" : "Yola North",
+    "State" : "Adamawa ",
+    "FC" : "FC/016/AD",
+    "SD" : "SD/006/AD"
+},
+{
+    "LGA" : "Yola South",
+    "State" : "Adamawa ",
+    "FC" : "FC/016/AD",
+    "SD" : "SD/006/AD"
+},
+{
+    "LGA" : "Abak",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/017/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Eastern Obolo",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/021/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Eket",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/018/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Esit Eket",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/018/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Essien Udim",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/022/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Etim Ekpo",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/017/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Etinan",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/019/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Ibeno",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/018/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Ibesikpo Asutan",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/026/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Ibiono-Ibom",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/023/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Ika",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/017/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Ikono",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/020/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Ikot Abasi",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/021/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Ikot Ekpene",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/022/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Ini",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/020/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Itu",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/023/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Mbo",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/024/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Mkpat-Enin",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/021/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Nsit-Atai",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/026/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Nsit-Ibom",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/019/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Nsit-Ubium",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/019/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Obot Akara",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/022/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Okobo",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/024/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Onna",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/018/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Oron",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/024/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Oruk Anam",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/025/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Udung-Uko",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/024/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Ukanafun",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/025/AK",
+    "SD" : "SD/008/AK"
+},
+{
+    "LGA" : "Uruan",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/026/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Urue-Offong/Oruko",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/024/AK",
+    "SD" : "SD/009/AK"
+},
+{
+    "LGA" : "Uyo",
+    "State" : "Akwa Ibom ",
+    "FC" : "FC/026/AK",
+    "SD" : "SD/007/AK"
+},
+{
+    "LGA" : "Aguata",
+    "State" : "Anambra ",
+    "FC" : "FC/030/AN",
+    "SD" : "SD/012/AN"
+},
+{
+    "LGA" : "Anambra East",
+    "State" : "Anambra ",
+    "FC" : "FC/027/AN",
+    "SD" : "SD/010/AN"
+},
+{
+    "LGA" : "Anambra West",
+    "State" : "Anambra ",
+    "FC" : "FC/027/AN",
+    "SD" : "SD/010/AN"
+},
+{
+    "LGA" : "Anaocha",
+    "State" : "Anambra ",
+    "FC" : "FC/033/AN",
+    "SD" : "SD/011/AN"
+},
+{
+    "LGA" : "Awka North",
+    "State" : "Anambra ",
+    "FC" : "FC/032/AN",
+    "SD" : "SD/011/AN"
+},
+{
+    "LGA" : "Awka South",
+    "State" : "Anambra ",
+    "FC" : "FC/032/AN",
+    "SD" : "SD/011/AN"
+},
+{
+    "LGA" : "Ayamelum",
+    "State" : "Anambra ",
+    "FC" : "FC/031/AN",
+    "SD" : "SD/010/AN"
+},
+{
+    "LGA" : "Dunukofia",
+    "State" : "Anambra ",
+    "FC" : "FC/033/AN",
+    "SD" : "SD/011/AN"
+},
+{
+    "LGA" : "Ekwusigo",
+    "State" : "Anambra ",
+    "FC" : "FC/036/AN",
+    "SD" : "SD/012/AN"
+},
+{
+    "LGA" : "Idemili North",
+    "State" : "Anambra ",
+    "FC" : "FC/034/AN",
+    "SD" : "SD/011/AN"
+},
+{
+    "LGA" : "Idemili South",
+    "State" : "Anambra ",
+    "FC" : "FC/034/AN",
+    "SD" : "SD/011/AN"
+},
+{
+    "LGA" : "Ihiala",
+    "State" : "Anambra ",
+    "FC" : "FC/035/AN",
+    "SD" : "SD/012/AN"
+},
+{
+    "LGA" : "Njikoka",
+    "State" : "Anambra ",
+    "FC" : "FC/033/AN",
+    "SD" : "SD/011/AN"
+},
+{
+    "LGA" : "Nnewi North",
+    "State" : "Anambra ",
+    "FC" : "FC/036/AN",
+    "SD" : "SD/012/AN"
+},
+{
+    "LGA" : "Nnewi South",
+    "State" : "Anambra ",
+    "FC" : "FC/036/AN",
+    "SD" : "SD/012/AN"
+},
+{
+    "LGA" : "Ogbaru",
+    "State" : "Anambra ",
+    "FC" : "FC/029/AN",
+    "SD" : "SD/010/AN"
+},
+{
+    "LGA" : "Onitsha North",
+    "State" : "Anambra ",
+    "FC" : "FC/028/AN",
+    "SD" : "SD/010/AN"
+},
+{
+    "LGA" : "Onitsha South",
+    "State" : "Anambra ",
+    "FC" : "FC/028/AN",
+    "SD" : "SD/010/AN"
+},
+{
+    "LGA" : "Orumba North",
+    "State" : "Anambra ",
+    "FC" : "FC/037/AN",
+    "SD" : "SD/012/AN"
+},
+{
+    "LGA" : "Orumba South",
+    "State" : "Anambra ",
+    "FC" : "FC/037/AN",
+    "SD" : "SD/012/AN"
+},
+{
+    "LGA" : "Oyi",
+    "State" : "Anambra ",
+    "FC" : "FC/031/AN",
+    "SD" : "SD/010/AN"
+},
+{
+    "LGA" : "Alkaleri",
+    "State" : "Bauchi ",
+    "FC" : "FC/038/BA",
+    "SD" : "SD/013/BA"
+},
+{
+    "LGA" : "Bauchi",
+    "State" : "Bauchi ",
+    "FC" : "FC/039/BA",
+    "SD" : "SD/013/BA"
+},
+{
+    "LGA" : "Bogoro",
+    "State" : "Bauchi ",
+    "FC" : "FC/040/BA",
+    "SD" : "SD/013/BA"
+},
+{
+    "LGA" : "Damban",
+    "State" : "Bauchi ",
+    "FC" : "FC/044/BA",
+    "SD" : "SD/014/BA"
+},
+{
+    "LGA" : "Darazo",
+    "State" : "Bauchi ",
+    "FC" : "FC/043/BA",
+    "SD" : "SD/014/BA"
+},
+{
+    "LGA" : "Dass",
+    "State" : "Bauchi ",
+    "FC" : "FC/040/BA",
+    "SD" : "SD/013/BA"
+},
+{
+    "LGA" : "Gamawa",
+    "State" : "Bauchi ",
+    "FC" : "FC/046/BA",
+    "SD" : "SD/015/BA"
+},
+{
+    "LGA" : "Ganjuwa",
+    "State" : "Bauchi ",
+    "FC" : "FC/043/BA",
+    "SD" : "SD/014/BA"
+},
+{
+    "LGA" : "Giade",
+    "State" : "Bauchi ",
+    "FC" : "FC/048/BA",
+    "SD" : "SD/015/BA"
+},
+{
+    "LGA" : "Itas/Gadau",
+    "State" : "Bauchi ",
+    "FC" : "FC/047/BA",
+    "SD" : "SD/015/BA"
+},
+{
+    "LGA" : "Jama'are",
+    "State" : "Bauchi ",
+    "FC" : "FC/047/BA",
+    "SD" : "SD/015/BA"
+},
+{
+    "LGA" : "Katagum",
+    "State" : "Bauchi ",
+    "FC" : "FC/049/BA",
+    "SD" : "SD/015/BA"
+},
+{
+    "LGA" : "Kirfi",
+    "State" : "Bauchi ",
+    "FC" : "FC/038/BA",
+    "SD" : "SD/013/BA"
+},
+{
+    "LGA" : "Misau",
+    "State" : "Bauchi ",
+    "FC" : "FC/044/BA",
+    "SD" : "SD/014/BA"
+},
+{
+    "LGA" : "Ningi",
+    "State" : "Bauchi ",
+    "FC" : "FC/042/BA",
+    "SD" : "SD/014/BA"
+},
+{
+    "LGA" : "Shira",
+    "State" : "Bauchi ",
+    "FC" : "FC/048/BA",
+    "SD" : "SD/015/BA"
+},
+{
+    "LGA" : "Tafawa Balewa",
+    "State" : "Bauchi ",
+    "FC" : "FC/040/BA",
+    "SD" : "SD/013/BA"
+},
+{
+    "LGA" : "Toro",
+    "State" : "Bauchi ",
+    "FC" : "FC/041/BA",
+    "SD" : "SD/013/BA"
+},
+{
+    "LGA" : "Warji",
+    "State" : "Bauchi ",
+    "FC" : "FC/042/BA",
+    "SD" : "SD/014/BA"
+},
+{
+    "LGA" : "Zaki",
+    "State" : "Bauchi ",
+    "FC" : "FC/045/BA",
+    "SD" : "SD/015/BA"
+},
+{
+    "LGA" : "Brass",
+    "State" : "Bayelsa ",
+    "FC" : "FC/050/BY",
+    "SD" : "SD/016/BY"
+},
+{
+    "LGA" : "Ekeremor",
+    "State" : "Bayelsa ",
+    "FC" : "FC/052/BY",
+    "SD" : "SD/018/BY"
+},
+{
+    "LGA" : "Kolokuma/Opokuma",
+    "State" : "Bayelsa ",
+    "FC" : "FC/054/BY",
+    "SD" : "SD/017/BY"
+},
+{
+    "LGA" : "Nembe",
+    "State" : "Bayelsa ",
+    "FC" : "FC/050/BY",
+    "SD" : "SD/016/BY"
+},
+{
+    "LGA" : "Ogbia",
+    "State" : "Bayelsa ",
+    "FC" : "FC/051/BY",
+    "SD" : "SD/016/BY"
+},
+{
+    "LGA" : "Sagbama",
+    "State" : "Bayelsa ",
+    "FC" : "FC/052/BY",
+    "SD" : "SD/018/BY"
+},
+{
+    "LGA" : "Southern Ijaw",
+    "State" : "Bayelsa ",
+    "FC" : "FC/053/BY",
+    "SD" : "SD/017/BY"
+},
+{
+    "LGA" : "Yenagoa",
+    "State" : "Bayelsa ",
+    "FC" : "FC/054/BY",
+    "SD" : "SD/017/BY"
+},
+{
+    "LGA" : "Agatu",
+    "State" : "Benue ",
+    "FC" : "FC/056/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Apa",
+    "State" : "Benue ",
+    "FC" : "FC/056/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Ado",
+    "State" : "Benue ",
+    "FC" : "FC/055/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Buruku",
+    "State" : "Benue ",
+    "FC" : "FC/057/BN",
+    "SD" : "SD/020/BN"
+},
+{
+    "LGA" : "Gboko",
+    "State" : "Benue ",
+    "FC" : "FC/058/BN",
+    "SD" : "SD/020/BN"
+},
+{
+    "LGA" : "Guma",
+    "State" : "Benue ",
+    "FC" : "FC/059/BN",
+    "SD" : "SD/020/BN"
+},
+{
+    "LGA" : "Gwer East",
+    "State" : "Benue ",
+    "FC" : "FC/060/BN",
+    "SD" : "SD/020/BN"
+},
+{
+    "LGA" : "Gwer West",
+    "State" : "Benue ",
+    "FC" : "FC/060/BN",
+    "SD" : "SD/020/BN"
+},
+{
+    "LGA" : "Katsina-Ala",
+    "State" : "Benue ",
+    "FC" : "FC/055/BN",
+    "SD" : "SD/019/BN"
+},
+{
+    "LGA" : "Konshisha",
+    "State" : "Benue ",
+    "FC" : "FC/062/BN",
+    "SD" : "SD/019/BN"
+},
+{
+    "LGA" : "Kwande",
+    "State" : "Benue ",
+    "FC" : "FC/063/BN",
+    "SD" : "SD/019/BN"
+},
+{
+    "LGA" : "Logo",
+    "State" : "Benue ",
+    "FC" : "FC/061/BN",
+    "SD" : "SD/019/BN"
+},
+{
+    "LGA" : "Makurdi",
+    "State" : "Benue ",
+    "FC" : "FC/059/BN",
+    "SD" : "SD/020/BN"
+},
+{
+    "LGA" : "Obi",
+    "State" : "Benue ",
+    "FC" : "FC/064/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Ogbadibo",
+    "State" : "Benue ",
+    "FC" : "FC/055/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Ohimini",
+    "State" : "Benue ",
+    "FC" : "FC/065/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Oju",
+    "State" : "Benue ",
+    "FC" : "FC/064/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Okpokwu",
+    "State" : "Benue ",
+    "FC" : "FC/055/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Oturkpo",
+    "State" : "Benue ",
+    "FC" : "FC/065/BN",
+    "SD" : "SD/021/BN"
+},
+{
+    "LGA" : "Tarka",
+    "State" : "Benue ",
+    "FC" : "FC/058/BN",
+    "SD" : "SD/020/BN"
+},
+{
+    "LGA" : "Ukum",
+    "State" : "Benue ",
+    "FC" : "FC/061/BN",
+    "SD" : "SD/019/BN"
+},
+{
+    "LGA" : "Ushongo",
+    "State" : "Benue ",
+    "FC" : "FC/063/BN",
+    "SD" : "SD/019/BN"
+},
+{
+    "LGA" : "Vandeikya",
+    "State" : "Benue ",
+    "FC" : "FC/062/BN",
+    "SD" : "SD/019/BN"
+},
+{
+    "LGA" : "Abadam",
+    "State" : "Borno ",
+    "FC" : "FC/073/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Askira/Uba",
+    "State" : "Borno ",
+    "FC" : "FC/066/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Bama",
+    "State" : "Borno ",
+    "FC" : "FC/067/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Bayo",
+    "State" : "Borno ",
+    "FC" : "FC/068/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Biu",
+    "State" : "Borno ",
+    "FC" : "FC/068/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Chibok",
+    "State" : "Borno ",
+    "FC" : "FC/070/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Damboa",
+    "State" : "Borno ",
+    "FC" : "FC/070/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Dikwa",
+    "State" : "Borno ",
+    "FC" : "FC/069/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Gubio",
+    "State" : "Borno ",
+    "FC" : "FC/071/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Guzamala",
+    "State" : "Borno ",
+    "FC" : "FC/073/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Gwoza",
+    "State" : "Borno ",
+    "FC" : "FC/070/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Hawul",
+    "State" : "Borno ",
+    "FC" : "FC/066/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Jere",
+    "State" : "Borno ",
+    "FC" : "FC/075/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Kaga",
+    "State" : "Borno ",
+    "FC" : "FC/071/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Kala/Balge",
+    "State" : "Borno ",
+    "FC" : "FC/067/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Konduga",
+    "State" : "Borno ",
+    "FC" : "FC/069/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Kukawa",
+    "State" : "Borno ",
+    "FC" : "FC/073/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Kwaya Kusar",
+    "State" : "Borno ",
+    "FC" : "FC/068/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Mafa",
+    "State" : "Borno ",
+    "FC" : "FC/069/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Magumeri",
+    "State" : "Borno ",
+    "FC" : "FC/071/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Maiduguri",
+    "State" : "Borno ",
+    "FC" : "FC/073/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Marte",
+    "State" : "Borno ",
+    "FC" : "FC/072/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Mobbar",
+    "State" : "Borno ",
+    "FC" : "FC/073/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Monguno",
+    "State" : "Borno ",
+    "FC" : "FC/072/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Ngala",
+    "State" : "Borno ",
+    "FC" : "FC/067/BO",
+    "SD" : "SD/023/BO"
+},
+{
+    "LGA" : "Nganzai",
+    "State" : "Borno ",
+    "FC" : "FC/072/BO",
+    "SD" : "SD/022/BO"
+},
+{
+    "LGA" : "Shani",
+    "State" : "Borno ",
+    "FC" : "FC/068/BO",
+    "SD" : "SD/024/BO"
+},
+{
+    "LGA" : "Abi",
+    "State" : "Cross River ",
+    "FC" : "FC/076/CR",
+    "SD" : "SD/026/CR"
+},
+{
+    "LGA" : "Akamkpa",
+    "State" : "Cross River ",
+    "FC" : "FC/077/CR",
+    "SD" : "SD/027/CR"
+},
+{
+    "LGA" : "Akpabuyo",
+    "State" : "Cross River ",
+    "FC" : "FC/089/CR",
+    "SD" : "SD/027/CR"
+},
+{
+    "LGA" : "Bakassi",
+    "State" : "Cross River ",
+    "FC" : "FC/089/CR",
+    "SD" : "SD/027/CR"
+},
+{
+    "LGA" : "Bekwarra",
+    "State" : "Cross River ",
+    "FC" : "FC/081/CR",
+    "SD" : "SD/025/CR"
+},
+{
+    "LGA" : "Biase",
+    "State" : "Cross River ",
+    "FC" : "FC/077/CR",
+    "SD" : "SD/025/CR"
+},
+{
+    "LGA" : "Boki",
+    "State" : "Cross River ",
+    "FC" : "FC/078/CR",
+    "SD" : "SD/026/CR"
+},
+{
+    "LGA" : "Calabar Municipal",
+    "State" : "Cross River ",
+    "FC" : "FC/080/CR",
+    "SD" : "SD/027/CR"
+},
+{
+    "LGA" : "Calabar South",
+    "State" : "Cross River ",
+    "FC" : "FC/089/CR",
+    "SD" : "SD/027/CR"
+},
+{
+    "LGA" : "Etung",
+    "State" : "Cross River ",
+    "FC" : "FC/082/CR",
+    "SD" : "SD/026/CR"
+},
+{
+    "LGA" : "Ikom",
+    "State" : "Cross River ",
+    "FC" : "FC/078/CR",
+    "SD" : "SD/026/CR"
+},
+{
+    "LGA" : "Obanliku",
+    "State" : "Cross River ",
+    "FC" : "FC/081/CR",
+    "SD" : "SD/025/CR"
+},
+{
+    "LGA" : "Obubra",
+    "State" : "Cross River ",
+    "FC" : "FC/082/CR",
+    "SD" : "SD/026/CR"
+},
+{
+    "LGA" : "Obudu",
+    "State" : "Cross River ",
+    "FC" : "FC/081/CR",
+    "SD" : "SD/025/CR"
+},
+{
+    "LGA" : "Odukpani",
+    "State" : "Cross River ",
+    "FC" : "FC/080/CR",
+    "SD" : "SD/027/CR"
+},
+{
+    "LGA" : "Ogoja",
+    "State" : "Cross River ",
+    "FC" : "FC/083/CR",
+    "SD" : "SD/025/CR"
+},
+{
+    "LGA" : "Yakuur",
+    "State" : "Cross River ",
+    "FC" : "FC/076/CR",
+    "SD" : "SD/026/CR"
+},
+{
+    "LGA" : "Yala",
+    "State" : "Cross River ",
+    "FC" : "FC/083/CR",
+    "SD" : "SD/025/CR"
+},
+{
+    "LGA" : "Aniocha North",
+    "State" : "Delta ",
+    "FC" : "FC/084/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Aniocha South",
+    "State" : "Delta ",
+    "FC" : "FC/084/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Bomadi",
+    "State" : "Delta ",
+    "FC" : "FC/085/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Burutu",
+    "State" : "Delta ",
+    "FC" : "FC/091/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Ethiope East",
+    "State" : "Delta ",
+    "FC" : "FC/086/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Ethiope West",
+    "State" : "Delta ",
+    "FC" : "FC/086/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Ika North East",
+    "State" : "Delta ",
+    "FC" : "FC/087/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Ika South",
+    "State" : "Delta ",
+    "FC" : "FC/087/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Isoko North",
+    "State" : "Delta ",
+    "FC" : "FC/088/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Isoko South",
+    "State" : "Delta ",
+    "FC" : "FC/088/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Ndokwa East",
+    "State" : "Delta ",
+    "FC" : "FC/089/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Ndokwa West",
+    "State" : "Delta ",
+    "FC" : "FC/089/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Okpe",
+    "State" : "Delta ",
+    "FC" : "FC/090/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Oshimili North",
+    "State" : "Delta ",
+    "FC" : "FC/084/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Oshimili South",
+    "State" : "Delta ",
+    "FC" : "FC/084/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Patani",
+    "State" : "Delta ",
+    "FC" : "FC/085/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Sapele",
+    "State" : "Delta ",
+    "FC" : "FC/090/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Udu",
+    "State" : "Delta ",
+    "FC" : "FC/092/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Ughelli North",
+    "State" : "Delta ",
+    "FC" : "FC/092/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Ughelli South",
+    "State" : "Delta ",
+    "FC" : "FC/092/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Ukwuani",
+    "State" : "Delta ",
+    "FC" : "FC/089/DT",
+    "SD" : "SD/029/DT"
+},
+{
+    "LGA" : "Uvwie",
+    "State" : "Delta ",
+    "FC" : "FC/090/DT",
+    "SD" : "SD/028/DT"
+},
+{
+    "LGA" : "Warri North",
+    "State" : "Delta ",
+    "FC" : "FC/093/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Warri South",
+    "State" : "Delta ",
+    "FC" : "FC/093/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Warri South West",
+    "State" : "Delta ",
+    "FC" : "FC/093/DT",
+    "SD" : "SD/030/DT"
+},
+{
+    "LGA" : "Abakaliki",
+    "State" : "Ebonyi ",
+    "FC" : "FC/095/EB",
+    "SD" : "SD/031/EB"
+},
+{
+    "LGA" : "Afikpo North",
+    "State" : "Ebonyi ",
+    "FC" : "FC/099/EB",
+    "SD" : "SD/033/EB"
+},
+{
+    "LGA" : "Afikpo South",
+    "State" : "Ebonyi ",
+    "FC" : "FC/099/EB",
+    "SD" : "SD/033/EB"
+},
+{
+    "LGA" : "Ebonyi",
+    "State" : "Ebonyi ",
+    "FC" : "FC/094/EB",
+    "SD" : "SD/031/EB"
+},
+{
+    "LGA" : "Ezza North",
+    "State" : "Ebonyi ",
+    "FC" : "FC/096/EB",
+    "SD" : "SD/032/EB"
+},
+{
+    "LGA" : "Ezza South",
+    "State" : "Ebonyi ",
+    "FC" : "FC/097/EB",
+    "SD" : "SD/032/EB"
+},
+{
+    "LGA" : "Ikwo",
+    "State" : "Ebonyi ",
+    "FC" : "FC/097/EB",
+    "SD" : "SD/032/EB"
+},
+{
+    "LGA" : "Ishielu",
+    "State" : "Ebonyi ",
+    "FC" : "FC/096/EB",
+    "SD" : "SD/032/EB"
+},
+{
+    "LGA" : "Ivo",
+    "State" : "Ebonyi ",
+    "FC" : "FC/098/EB",
+    "SD" : "SB/033/EB"
+},
+{
+    "LGA" : "Izzi",
+    "State" : "Ebonyi ",
+    "FC" : "FC/095/EB",
+    "SD" : "SD/031/EB"
+},
+{
+    "LGA" : "Ohaozara",
+    "State" : "Ebonyi ",
+    "FC" : "FC/098/EB",
+    "SD" : "SD/033/EB"
+},
+{
+    "LGA" : "Ohaukwu",
+    "State" : "Ebonyi ",
+    "FC" : "FC/094/EB",
+    "SD" : "SD/031/EB"
+},
+{
+    "LGA" : "Onicha",
+    "State" : "Ebonyi ",
+    "FC" : "FC/098/EB",
+    "SD" : "SD/033/EB"
+},
+{
+    "LGA" : "Akoko-Edo",
+    "State" : "Edo ",
+    "FC" : "FC/100/ED",
+    "SD" : "SD/035/ED"
+},
+{
+    "LGA" : "Egor",
+    "State" : "Edo ",
+    "FC" : "FC/104/ED",
+    "SD" : "SD/036/ED"
+},
+{
+    "LGA" : "Esan Central",
+    "State" : "Edo ",
+    "FC" : "FC/101/ED",
+    "SD" : "SD/034/ED"
+},
+{
+    "LGA" : "Esan North-East",
+    "State" : "Edo ",
+    "FC" : "FC/102/ED",
+    "SD" : "SD/034/ED"
+},
+{
+    "LGA" : "Esan South-East",
+    "State" : "Edo ",
+    "FC" : "FC/102/ED",
+    "SD" : "SD/034/ED"
+},
+{
+    "LGA" : "Esan South",
+    "State" : "Edo ",
+    "FC" : "FC/101/ED",
+    "SD" : "SD/034/ED"
+},
+{
+    "LGA" : "Etsako Central",
+    "State" : "Edo ",
+    "FC" : "FC/103/ED",
+    "SD" : "SD/035/ED"
+},
+{
+    "LGA" : "Etsako East",
+    "State" : "Edo ",
+    "FC" : "FC/103/ED",
+    "SD" : "SD/035/ED"
+},
+{
+    "LGA" : "Etsako West",
+    "State" : "Edo ",
+    "FC" : "FC/103/ED",
+    "SD" : "SD/035/ED"
+},
+{
+    "LGA" : "Igueben",
+    "State" : "Edo ",
+    "FC" : "FC/101/ED",
+    "SD" : "SD/035/ED"
+},
+{
+    "LGA" : "Ikpoba Okha",
+    "State" : "Edo ",
+    "FC" : "FC/104/ED",
+    "SD" : "SD/036/ED"
+},
+{
+    "LGA" : "Orhionmwon",
+    "State" : "Edo ",
+    "FC" : "FC/106/ED",
+    "SD" : "SD/036/ED"
+},
+{
+    "LGA" : "Oredo",
+    "State" : "Edo ",
+    "FC" : "FC/105/ED",
+    "SD" : "SD/036/ED"
+},
+{
+    "LGA" : "Ovia North-East",
+    "State" : "Edo ",
+    "FC" : "FC/107/ED",
+    "SD" : "SD/036/ED"
+},
+{
+    "LGA" : "Ovia South-West",
+    "State" : "Edo ",
+    "FC" : "FC/107/ED",
+    "SD" : "SD/036/ED"
+},
+{
+    "LGA" : "Owan East",
+    "State" : "Edo ",
+    "FC" : "FC/108/ED",
+    "SD" : "SD/035/ED"
+},
+{
+    "LGA" : "Owan West",
+    "State" : "Edo ",
+    "FC" : "FC/108/ED",
+    "SD" : "SD/035/ED"
+},
+{
+    "LGA" : "Uhunmwonde",
+    "State" : "Edo ",
+    "FC" : "FC/106/ED",
+    "SD" : "SD/036/ED"
+},
+{
+    "LGA" : "Ado Ekiti",
+    "State" : "Ekiti ",
+    "FC" : "FC/109/EK",
+    "SD" : "SD/038/EK"
+},
+{
+    "LGA" : "Efon",
+    "State" : "Ekiti ",
+    "FC" : "FC/113/EK",
+    "SD" : "SD/038/EK"
+},
+{
+    "LGA" : "Ekiti East",
+    "State" : "Ekiti ",
+    "FC" : "FC/111/EK",
+    "SD" : "SD/039/EK"
+},
+{
+    "LGA" : "Ekiti South-West",
+    "State" : "Ekiti ",
+    "FC" : "FC/110/EK",
+    "SD" : "SD/039/EK"
+},
+{
+    "LGA" : "Ekiti West",
+    "State" : "Ekiti ",
+    "FC" : "FC/113/EK",
+    "SD" : "SD/038/EK"
+},
+{
+    "LGA" : "Emure",
+    "State" : "Ekiti ",
+    "FC" : "FC/111/EK",
+    "SD" : "SD/039/EK"
+},
+{
+    "LGA" : "Gbonyin",
+    "State" : "Ekiti ",
+    "FC" : "FC/111/EK",
+    "SD" : "SD/039/EK"
+},
+{
+    "LGA" : "Ido Osi",
+    "State" : "Ekiti ",
+    "FC" : "FC/112/EK",
+    "SD" : "SD/037/EK"
+},
+{
+    "LGA" : "Ijero",
+    "State" : "Ekiti ",
+    "FC" : "FC/113/EK",
+    "SD" : "SD/038/EK"
+},
+{
+    "LGA" : "Ikere",
+    "State" : "Ekiti ",
+    "FC" : "FC/110/EK",
+    "SD" : "SD/039/EK"
+},
+{
+    "LGA" : "Ikole",
+    "State" : "Ekiti ",
+    "FC" : "FC/114/EK",
+    "SD" : "SD/037/EK"
+},
+{
+    "LGA" : "Ilejemeje",
+    "State" : "Ekiti ",
+    "FC" : "FC/112/EK",
+    "SD" : "SD/037/EK"
+},
+{
+    "LGA" : "Irepodun/Ifelodun",
+    "State" : "Ekiti ",
+    "FC" : "FC/109/EK",
+    "SD" : "SD/038/EK"
+},
+{
+    "LGA" : "Ise/Orun",
+    "State" : "Ekiti ",
+    "FC" : "FC/110/EK",
+    "SD" : "SD/039/EK"
+},
+{
+    "LGA" : "Moba",
+    "State" : "Ekiti ",
+    "FC" : "FC/112/EK",
+    "SD" : "SD/037/EK"
+},
+{
+    "LGA" : "Oye",
+    "State" : "Ekiti ",
+    "FC" : "FC/114/EK",
+    "SD" : "SD/037/EK"
+},
+{
+    "LGA" : "Aninri",
+    "State" : "Enugu ",
+    "FC" : "FC/115/EN",
+    "SD" : "SD/041/EN"
+},
+{
+    "LGA" : "Awgu",
+    "State" : "Enugu ",
+    "FC" : "FC/115/EN",
+    "SD" : "SD/041/EN"
+},
+{
+    "LGA" : "Enugu East",
+    "State" : "Enugu ",
+    "FC" : "FC/116/EN",
+    "SD" : "SD/040/EN"
+},
+{
+    "LGA" : "Enugu North",
+    "State" : "Enugu ",
+    "FC" : "FC/117/EN",
+    "SD" : "SD/040/EN"
+},
+{
+    "LGA" : "Enugu South",
+    "State" : "Enugu ",
+    "FC" : "FC/117/EN",
+    "SD" : "SD/040/EN"
+},
+{
+    "LGA" : "Ezeagu",
+    "State" : "Enugu ",
+    "FC" : "FC/118/EN",
+    "SD" : "SD/041/EN"
+},
+{
+    "LGA" : "Igbo Etiti",
+    "State" : "Enugu ",
+    "FC" : "FC/119/EN",
+    "SD" : "SD/042/EN"
+},
+{
+    "LGA" : "Igbo Eze North",
+    "State" : "Enugu ",
+    "FC" : "FC/120/EN",
+    "SD" : "SD/042/EN"
+},
+{
+    "LGA" : "Igbo Eze South",
+    "State" : "Enugu ",
+    "FC" : "FC/122/EN",
+    "SD" : "SD/042/EN"
+},
+{
+    "LGA" : "Isi Uzo",
+    "State" : "Enugu ",
+    "FC" : "FC/116/EN",
+    "SD" : "SD/040/EN"
+},
+{
+    "LGA" : "Nkanu East",
+    "State" : "Enugu ",
+    "FC" : "FC/121/EN",
+    "SD" : "SD/040/EN"
+},
+{
+    "LGA" : "Nkanu West",
+    "State" : "Enugu ",
+    "FC" : "FC/121/EN",
+    "SD" : "SD/040/EN"
+},
+{
+    "LGA" : "Nsukka",
+    "State" : "Enugu ",
+    "FC" : "FC/122/EN",
+    "SD" : "SD/042/EN"
+},
+{
+    "LGA" : "Oji River",
+    "State" : "Enugu ",
+    "FC" : "FC/115/EN",
+    "SD" : "SD/041/EN"
+},
+{
+    "LGA" : "Udenu",
+    "State" : "Enugu ",
+    "FC" : "FC/120/EN",
+    "SD" : "SD/042/EN"
+},
+{
+    "LGA" : "Udi",
+    "State" : "Enugu ",
+    "FC" : "FC/118/EN",
+    "SD" : "SD/041/EN"
+},
+{
+    "LGA" : "Uzo Uwani",
+    "State" : "Enugu ",
+    "FC" : "FC/119/EN",
+    "SD" : "SD/042/EN"
+},
+{
+    "LGA" : "Abaji",
+    "State" : "FCT",
+    "FC" : "FC/359/FCT",
+    "SD" : "SD/109/FCT"
+},
+{
+    "LGA" : "Bwari",
+    "State" : "FCT",
+    "FC" : "FC/360/FCT",
+    "SD" : "SD/109/FCT"
+},
+{
+    "LGA" : "Gwagwalada",
+    "State" : "FCT",
+    "FC" : "FC/359/FCT",
+    "SD" : "SD/109/FCT"
+},
+{
+    "LGA" : "Kuje",
+    "State" : "FCT",
+    "FC" : "FC/359/FCT",
+    "SD" : "SD/109/FCT"
+},
+{
+    "LGA" : "Kwali",
+    "State" : "FCT",
+    "FC" : "FC/359/FCT",
+    "SD" : "SD/109/FCT"
+},
+{
+    "LGA" : "Municipal Area Council",
+    "State" : "FCT",
+    "FC" : "FC/360/FCT",
+    "SD" : "SD/109/FCT"
+},
+{
+    "LGA" : "Akko",
+    "State" : "Gombe ",
+    "FC" : "FC/123/GM",
+    "SD" : "SD/043/GM"
+},
+{
+    "LGA" : "Balanga",
+    "State" : "Gombe ",
+    "FC" : "FC/125/GM",
+    "SD" : "SD/044/GM"
+},
+{
+    "LGA" : "Billiri",
+    "State" : "Gombe ",
+    "FC" : "FC/125/GM",
+    "SD" : "SD/044/GM"
+},
+{
+    "LGA" : "Dukku",
+    "State" : "Gombe ",
+    "FC" : "FC/128/GM",
+    "SD" : "SD/045/GM"
+},
+{
+    "LGA" : "Funakaye",
+    "State" : "Gombe ",
+    "FC" : "FC/127/GM",
+    "SD" : "SD/045/GM"
+},
+{
+    "LGA" : "Gombe",
+    "State" : "Gombe ",
+    "FC" : "FC/127/GM",
+    "SD" : "SD/045/GM"
+},
+{
+    "LGA" : "Kaltungo",
+    "State" : "Gombe ",
+    "FC" : "FC/126/GM",
+    "SD" : "SD/044/GM"
+},
+{
+    "LGA" : "Kwami",
+    "State" : "Gombe ",
+    "FC" : "FC/127/GM",
+    "SD" : "SD/045/GM"
+},
+{
+    "LGA" : "Nafada",
+    "State" : "Gombe ",
+    "FC" : "FC/128/GM",
+    "SD" : "SD/045/GM"
+},
+{
+    "LGA" : "Shongom",
+    "State" : "Gombe ",
+    "FC" : "FC/126/GM",
+    "SD" : "SD/044/GM"
+},
+{
+    "LGA" : "Yamaltu/Deba",
+    "State" : "Gombe ",
+    "FC" : "FC/124/GM",
+    "SD" : "SD/043/GM"
+},
+{
+    "LGA" : "Aboh Mbaise",
+    "State" : "Imo ",
+    "FC" : "FC/135/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Ahiazu Mbaise",
+    "State" : "Imo ",
+    "FC" : "FC/136/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Ehime Mbano",
+    "State" : "Imo ",
+    "FC" : "FC/129/IM",
+    "SD" : "SD/048/IM"
+},
+{
+    "LGA" : "Ezinihitte",
+    "State" : "Imo ",
+    "FC" : "FC/136/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Ideato North",
+    "State" : "Imo ",
+    "FC" : "FC/131/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Ideato South",
+    "State" : "Imo ",
+    "FC" : "FC/131/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Ihitte/Uboma",
+    "State" : "Imo ",
+    "FC" : "FC/129/IM",
+    "SD" : "SD/048/IM"
+},
+{
+    "LGA" : "Ikeduru",
+    "State" : "Imo ",
+    "FC" : "FC/137/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Isiala Mbano",
+    "State" : "Imo ",
+    "FC" : "FC/130/IM",
+    "SD" : "SD/048/IM"
+},
+{
+    "LGA" : "Isu",
+    "State" : "Imo ",
+    "FC" : "FC/132/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Mbaitoli",
+    "State" : "Imo ",
+    "FC" : "FC/137/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Ngor Okpala",
+    "State" : "Imo ",
+    "FC" : "FC/135/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Njaba",
+    "State" : "Imo ",
+    "FC" : "FC/132/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Nkwerre",
+    "State" : "Imo ",
+    "FC" : "FC/132/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Nwangele",
+    "State" : "Imo ",
+    "FC" : "FC/132/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Obowo",
+    "State" : "Imo ",
+    "FC" : "FC/129/IM",
+    "SD" : "SD/048/IM"
+},
+{
+    "LGA" : "Oguta",
+    "State" : "Imo ",
+    "FC" : "FC/133/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Ohaji/Egbema",
+    "State" : "Imo ",
+    "FC" : "FC/133/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Okigwe",
+    "State" : "Imo ",
+    "FC" : "FC/130/IM",
+    "SD" : "SD/048/IM"
+},
+{
+    "LGA" : "Orlu",
+    "State" : "Imo ",
+    "FC" : "FC/134/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Orsu",
+    "State" : "Imo ",
+    "FC" : "FC/134/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Oru East",
+    "State" : "Imo ",
+    "FC" : "FC/134/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Oru West",
+    "State" : "Imo ",
+    "FC" : "FC/133/IM",
+    "SD" : "SD/047/IM"
+},
+{
+    "LGA" : "Owerri Municipal",
+    "State" : "Imo ",
+    "FC" : "FC/138/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Owerri North",
+    "State" : "Imo ",
+    "FC" : "FC/138/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Owerri West",
+    "State" : "Imo ",
+    "FC" : "FC/138/IM",
+    "SD" : "SD/046/IM"
+},
+{
+    "LGA" : "Onuimo",
+    "State" : "Imo ",
+    "FC" : "FC/130/IM",
+    "SD" : "SD/048/IM"
+},
+{
+    "LGA" : "Auyo",
+    "State" : "Jigawa ",
+    "FC" : "FC/145/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Babura",
+    "State" : "Jigawa ",
+    "FC" : "FC/139/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Biriniwa",
+    "State" : "Jigawa ",
+    "FC" : "FC/141/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Birnin Kudu",
+    "State" : "Jigawa ",
+    "FC" : "FC/140/JG",
+    "SD" : "SD/049/JG"
+},
+{
+    "LGA" : "Buji",
+    "State" : "Jigawa ",
+    "FC" : "FC/140/JG",
+    "SD" : "SD/049/JG"
+},
+{
+    "LGA" : "Dutse",
+    "State" : "Jigawa ",
+    "FC" : "FC/142/JG",
+    "SD" : "SD/049/JG"
+},
+{
+    "LGA" : "Gagarawa",
+    "State" : "Jigawa ",
+    "FC" : "FC/144/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Garki",
+    "State" : "Jigawa ",
+    "FC" : "FC/139/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Gumel",
+    "State" : "Jigawa ",
+    "FC" : "FC/144/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Guri",
+    "State" : "Jigawa ",
+    "FC" : "FC/141/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Gwaram",
+    "State" : "Jigawa ",
+    "FC" : "FC/143/JG",
+    "SD" : "SD/049/JG"
+},
+{
+    "LGA" : "Gwiwa",
+    "State" : "Jigawa ",
+    "FC" : "FC/148/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Hadejia",
+    "State" : "Jigawa ",
+    "FC" : "FC/145/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Jahun",
+    "State" : "Jigawa ",
+    "FC" : "FC/146/JG",
+    "SD" : "SD/049/JG"
+},
+{
+    "LGA" : "Kafin Hausa",
+    "State" : "Jigawa ",
+    "FC" : "FC/145/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Kazaure",
+    "State" : "Jigawa ",
+    "FC" : "FC/148/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Kiri Kasama",
+    "State" : "Jigawa ",
+    "FC" : "FC/141/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Kiyawa",
+    "State" : "Jigawa ",
+    "FC" : "FC/142/JG",
+    "SD" : "SD/049/JG"
+},
+{
+    "LGA" : "Kaugama",
+    "State" : "Jigawa ",
+    "FC" : "FC/147/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Maigatari",
+    "State" : "Jigawa ",
+    "FC" : "FC/144/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Malam Madori",
+    "State" : "Jigawa ",
+    "FC" : "FC/147/JG",
+    "SD" : "SD/050/JG"
+},
+{
+    "LGA" : "Miga",
+    "State" : "Jigawa ",
+    "FC" : "FC/146/JG",
+    "SD" : "SD/049/JG"
+},
+{
+    "LGA" : "Ringim",
+    "State" : "Jigawa ",
+    "FC" : "FC/149/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Roni",
+    "State" : "Jigawa ",
+    "FC" : "FC/148/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Sule Tankarkar",
+    "State" : "Jigawa ",
+    "FC" : "FC/144/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Taura",
+    "State" : "Jigawa ",
+    "FC" : "FC/149/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Yankwashi",
+    "State" : "Jigawa ",
+    "FC" : "FC/148/JG",
+    "SD" : "SD/051/JG"
+},
+{
+    "LGA" : "Birnin Gwari",
+    "State" : "Kaduna ",
+    "FC" : "FC/160/KD",
+    "SD" : "SD/053/KD"
+},
+{
+    "LGA" : "Chikun",
+    "State" : "Kaduna ",
+    "FC" : "FC/158/KD",
+    "SD" : "SD/053/KD"
+},
+{
+    "LGA" : "Giwa",
+    "State" : "Kaduna ",
+    "FC" : "FC/160/KD",
+    "SD" : "SD/053/KD"
+},
+{
+    "LGA" : "Igabi",
+    "State" : "Kaduna ",
+    "FC" : "FC/153/KD",
+    "SD" : "SD/053/KD"
+},
+{
+    "LGA" : "Ikara",
+    "State" : "Kaduna ",
+    "FC" : "FC/154/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Jaba",
+    "State" : "Kaduna ",
+    "FC" : "FC/165/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Jema'a",
+    "State" : "Kaduna ",
+    "FC" : "FC/159/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Kachia",
+    "State" : "Kaduna ",
+    "FC" : "FC/157/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Kaduna North",
+    "State" : "Kaduna ",
+    "FC" : "FC/150/KD",
+    "SD" : "SD/053/KD"
+},
+{
+    "LGA" : "Kaduna South",
+    "State" : "Kaduna ",
+    "FC" : "FC/162/KD",
+    "SD" : "SD/053/KD"
+},
+{
+    "LGA" : "Kagarko",
+    "State" : "Kaduna ",
+    "FC" : "FC/157/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Kajuru",
+    "State" : "Kaduna ",
+    "FC" : "FC/158/KD",
+    "SD" : "SD/053/KD"
+},
+{
+    "LGA" : "Kaura",
+    "State" : "Kaduna ",
+    "FC" : "FC/163/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Kauru",
+    "State" : "Kaduna ",
+    "FC" : "FC/164/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Kubau",
+    "State" : "Kaduna ",
+    "FC" : "FC/154/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Kudan",
+    "State" : "Kaduna ",
+    "FC" : "FC/155/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Lere",
+    "State" : "Kaduna ",
+    "FC" : "FC/156/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Makarfi",
+    "State" : "Kaduna ",
+    "FC" : "FC/155/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Sabon Gari",
+    "State" : "Kaduna ",
+    "FC" : "FC/161/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Sanga",
+    "State" : "Kaduna ",
+    "FC" : "FC/159/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Soba",
+    "State" : "Kaduna ",
+    "FC" : "FC/152/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Zangon Kataf",
+    "State" : "Kaduna ",
+    "FC" : "FC/165/KD",
+    "SD" : "SD/054/KD"
+},
+{
+    "LGA" : "Zaria",
+    "State" : "Kaduna ",
+    "FC" : "FC/151/KD",
+    "SD" : "SD/052/KD"
+},
+{
+    "LGA" : "Ajingi",
+    "State" : "Kano ",
+    "FC" : "FC/166/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Albasu",
+    "State" : "Kano ",
+    "FC" : "FC/166/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Bagwai",
+    "State" : "Kano ",
+    "FC" : "FC/167/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Bebeji",
+    "State" : "Kano ",
+    "FC" : "FC/168/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Bichi",
+    "State" : "Kano ",
+    "FC" : "FC/169/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Bunkure",
+    "State" : "Kano ",
+    "FC" : "FC/170/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Dala",
+    "State" : "Kano ",
+    "FC" : "FC/171/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Dambatta",
+    "State" : "Kano ",
+    "FC" : "FC/173/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Dawakin Kudu",
+    "State" : "Kano ",
+    "FC" : "FC/174/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Dawakin Tofa",
+    "State" : "Kano ",
+    "FC" : "FC/175/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Doguwa",
+    "State" : "Kano ",
+    "FC" : "FC/176/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Fagge",
+    "State" : "Kano ",
+    "FC" : "FC/185/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Gabasawa",
+    "State" : "Kano ",
+    "FC" : "FC/177/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Garko",
+    "State" : "Kano ",
+    "FC" : "FC/189/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Garun Mallam",
+    "State" : "Kano ",
+    "FC" : "FC/183/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Gaya",
+    "State" : "Kano ",
+    "FC" : "FC/166/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Gezawa",
+    "State" : "Kano ",
+    "FC" : "FC/177/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Gwale",
+    "State" : "Kano ",
+    "FC" : "FC/172/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Gwarzo",
+    "State" : "Kano ",
+    "FC" : "FC/178/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Kabo",
+    "State" : "Kano ",
+    "FC" : "FC/178/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Kano Municipal",
+    "State" : "Kano ",
+    "FC" : "FC/179/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Karaye",
+    "State" : "Kano ",
+    "FC" : "FC/181/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Kibiya",
+    "State" : "Kano ",
+    "FC" : "FC/170/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Kiru",
+    "State" : "Kano ",
+    "FC" : "FC/168/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Kumbotso",
+    "State" : "Kano ",
+    "FC" : "FC/182/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Kunchi",
+    "State" : "Kano ",
+    "FC" : "FC/188/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Kura",
+    "State" : "Kano ",
+    "FC" : "FC/183/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Madobi",
+    "State" : "Kano ",
+    "FC" : "FC/183/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Makoda",
+    "State" : "Kano ",
+    "FC" : "FC/173/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Minjibir",
+    "State" : "Kano ",
+    "FC" : "FC/187/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Nasarawa",
+    "State" : "Kano ",
+    "FC" : "FC/184/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Rano",
+    "State" : "Kano ",
+    "FC" : "FC/170/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Rimin Gado",
+    "State" : "Kano ",
+    "FC" : "FC/175/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Rogo",
+    "State" : "Kano ",
+    "FC" : "FC/181/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Shanono",
+    "State" : "Kano ",
+    "FC" : "FC/167/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Sumaila",
+    "State" : "Kano ",
+    "FC" : "FC/186/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Takai",
+    "State" : "Kano ",
+    "FC" : "FC/186/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Tarauni",
+    "State" : "Kano ",
+    "FC" : "FC/180/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Tofa",
+    "State" : "Kano ",
+    "FC" : "FC/175/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Tsanyawa",
+    "State" : "Kano ",
+    "FC" : "FC/188/KN",
+    "SD" : "SD/056/KN"
+},
+{
+    "LGA" : "Tudun Wada",
+    "State" : "Kano ",
+    "FC" : "FC/176/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Ungogo",
+    "State" : "Kano ",
+    "FC" : "FC/187/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Warawa",
+    "State" : "Kano ",
+    "FC" : "FC/174/KN",
+    "SD" : "SD/055/KN"
+},
+{
+    "LGA" : "Wudil",
+    "State" : "Kano ",
+    "FC" : "FC/189/KN",
+    "SD" : "SD/057/KN"
+},
+{
+    "LGA" : "Bakori",
+    "State" : "Katsina ",
+    "FC" : "FC/190/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Batagarawa",
+    "State" : "Katsina ",
+    "FC" : "FC/191/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Batsari",
+    "State" : "Katsina ",
+    "FC" : "FC/192/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Baure",
+    "State" : "Katsina ",
+    "FC" : "FC/204/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Bindawa",
+    "State" : "Katsina ",
+    "FC" : "FC/193/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Charanchi",
+    "State" : "Katsina ",
+    "FC" : "FC/191/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Dandume",
+    "State" : "Katsina ",
+    "FC" : "FC/197/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Danja",
+    "State" : "Katsina ",
+    "FC" : "FC/190/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Dan Musa",
+    "State" : "Katsina ",
+    "FC" : "FC/192/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Daura",
+    "State" : "Katsina ",
+    "FC" : "FC/194/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Dutsi",
+    "State" : "Katsina ",
+    "FC" : "FC/202/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Dutsin Ma",
+    "State" : "Katsina ",
+    "FC" : "FC/195/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Faskari",
+    "State" : "Katsina ",
+    "FC" : "FC/196/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Funtua",
+    "State" : "Katsina ",
+    "FC" : "FC/197/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Ingawa",
+    "State" : "Katsina ",
+    "FC" : "FC/198/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Jibia",
+    "State" : "Katsina ",
+    "FC" : "FC/199/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Kafur",
+    "State" : "Katsina ",
+    "FC" : "FC/200/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Kaita",
+    "State" : "Katsina ",
+    "FC" : "FC/199/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Kankara",
+    "State" : "Katsina ",
+    "FC" : "FC/196/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Kankia",
+    "State" : "Katsina ",
+    "FC" : "FC/198/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Katsina",
+    "State" : "Katsina ",
+    "FC" : "FC/201/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Kurfi",
+    "State" : "Katsina ",
+    "FC" : "FC/195/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Kusada",
+    "State" : "Katsina ",
+    "FC" : "FC/198/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Mai'Adua",
+    "State" : "Katsina ",
+    "FC" : "FC/194/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Malumfashi",
+    "State" : "Katsina ",
+    "FC" : "FC/200/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Mani",
+    "State" : "Katsina ",
+    "FC" : "FC/193/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Mashi",
+    "State" : "Katsina ",
+    "FC" : "FC/202/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Matazu",
+    "State" : "Katsina ",
+    "FC" : "FC/203/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Musawa",
+    "State" : "Katsina ",
+    "FC" : "FC/203/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Rimi",
+    "State" : "Katsina ",
+    "FC" : "FC/191/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Sabuwa",
+    "State" : "Katsina ",
+    "FC" : "FC/196/KT",
+    "SD" : "SD/059/KT"
+},
+{
+    "LGA" : "Safana",
+    "State" : "Katsina ",
+    "FC" : "FC/192/KT",
+    "SD" : "SD/060/KT"
+},
+{
+    "LGA" : "Sandamu",
+    "State" : "Katsina ",
+    "FC" : "FC/194/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Zango",
+    "State" : "Katsina ",
+    "FC" : "FC/204/KT",
+    "SD" : "SD/058/KT"
+},
+{
+    "LGA" : "Aleiro",
+    "State" : "Kebbi ",
+    "FC" : "FC/209/KB",
+    "SD" : "SD/062/KB"
+},
+{
+    "LGA" : "Arewa Dandi",
+    "State" : "Kebbi ",
+    "FC" : "FC/205/KB",
+    "SD" : "SD/061/KB"
+},
+{
+    "LGA" : "Argungu",
+    "State" : "Kebbi ",
+    "FC" : "FC/206/KB",
+    "SD" : "SD/061/KB"
+},
+{
+    "LGA" : "Augie",
+    "State" : "Kebbi ",
+    "FC" : "FC/206/KB",
+    "SD" : "SD/061/KB"
+},
+{
+    "LGA" : "Bagudo",
+    "State" : "Kebbi ",
+    "FC" : "FC/207/KB",
+    "SD" : "SD/061/KB"
+},
+{
+    "LGA" : "Birnin Kebbi",
+    "State" : "Kebbi ",
+    "FC" : "FC/208/KB",
+    "SD" : "SD/062/KB"
+},
+{
+    "LGA" : "Bunza",
+    "State" : "Kebbi ",
+    "FC" : "FC/208/KB",
+    "SD" : "SD/062/KB"
+},
+{
+    "LGA" : "Dandi",
+    "State" : "Kebbi ",
+    "FC" : "FC/205/KB",
+    "SD" : "SD/061/KB"
+},
+{
+    "LGA" : "Fakai",
+    "State" : "Kebbi ",
+    "FC" : "FC/211/KB",
+    "SD" : "SD/063/KB"
+},
+{
+    "LGA" : "Gwandu",
+    "State" : "Kebbi ",
+    "FC" : "FC/209/KB",
+    "SD" : "SD/062/KB"
+},
+{
+    "LGA" : "Jega",
+    "State" : "Kebbi ",
+    "FC" : "FC/209/KB",
+    "SD" : "SD/061/KB"
+},
+{
+    "LGA" : "Kalgo",
+    "State" : "Kebbi ",
+    "FC" : "FC/208/KB",
+    "SD" : "SD/062/KB"
+},
+{
+    "LGA" : "Koko/Besse",
+    "State" : "Kebbi ",
+    "FC" : "FC/210/KB",
+    "SD" : "SD/062/KB"
+},
+{
+    "LGA" : "Maiyama",
+    "State" : "Kebbi ",
+    "FC" : "FC/210/KB",
+    "SD" : "SD/062/KB"
+},
+{
+    "LGA" : "Ngaski",
+    "State" : "Kebbi ",
+    "FC" : "FC/212/KB",
+    "SD" : "SD/063/KB"
+},
+{
+    "LGA" : "Sakaba",
+    "State" : "Kebbi ",
+    "FC" : "FC/211/KB",
+    "SD" : "SD/063/KB"
+},
+{
+    "LGA" : "Shanga",
+    "State" : "Kebbi ",
+    "FC" : "FC/212/KB",
+    "SD" : "SD/063/KB"
+},
+{
+    "LGA" : "Suru",
+    "State" : "Kebbi ",
+    "FC" : "FC/207/KB",
+    "SD" : "SD/061/KB"
+},
+{
+    "LGA" : "Wasagu/Danko",
+    "State" : "Kebbi ",
+    "FC" : "FC/211/KB",
+    "SD" : "SD/063/KB"
+},
+{
+    "LGA" : "Yauri",
+    "State" : "Kebbi ",
+    "FC" : "FC/212/KB",
+    "SD" : "SD/063/KB"
+},
+{
+    "LGA" : "Zuru",
+    "State" : "Kebbi ",
+    "FC" : "FC/211/KB",
+    "SD" : "SD/063/KB"
+},
+{
+    "LGA" : "Adavi",
+    "State" : "Kogi ",
+    "FC" : "FC/213/KG",
+    "SD" : "SD/064/KG"
+},
+{
+    "LGA" : "Ajaokuta",
+    "State" : "Kogi ",
+    "FC" : "FC/218/KG",
+    "SD" : "SD/064/KG"
+},
+{
+    "LGA" : "Ankpa",
+    "State" : "Kogi ",
+    "FC" : "FC/214/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Bassa",
+    "State" : "Kogi ",
+    "FC" : "FC/215/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Dekina",
+    "State" : "Kogi ",
+    "FC" : "FC/215/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Ibaji",
+    "State" : "Kogi ",
+    "FC" : "FC/216/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Idah",
+    "State" : "Kogi ",
+    "FC" : "FC/216/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Igalamela Odolu",
+    "State" : "Kogi ",
+    "FC" : "FC/216/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Ijumu",
+    "State" : "Kogi ",
+    "FC" : "FC/217/KG",
+    "SD" : "SD/066/KG"
+},
+{
+    "LGA" : "Kabba/Bunu",
+    "State" : "Kogi ",
+    "FC" : "FC/217/KG",
+    "SD" : "SD/066/KG"
+},
+{
+    "LGA" : "Kogi",
+    "State" : "Kogi ",
+    "FC" : "FC/219/KG",
+    "SD" : "SD/066/KG"
+},
+{
+    "LGA" : "Lokoja",
+    "State" : "Kogi ",
+    "FC" : "FC/219/KG",
+    "SD" : "SD/066/KG"
+},
+{
+    "LGA" : "Mopa Muro",
+    "State" : "Kogi ",
+    "FC" : "FC/221/KG",
+    "SD" : "SD/066/KG"
+},
+{
+    "LGA" : "Ofu",
+    "State" : "Kogi ",
+    "FC" : "FC/216/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Ogori/Magongo",
+    "State" : "Kogi ",
+    "FC" : "FC/220/KG",
+    "SD" : "SD/064/KG"
+},
+{
+    "LGA" : "Okehi",
+    "State" : "Kogi ",
+    "FC" : "FC/213/KG",
+    "SD" : "SD/064/KG"
+},
+{
+    "LGA" : "Okene",
+    "State" : "Kogi ",
+    "FC" : "FC/220/KG",
+    "SD" : "SD/064/KG"
+},
+{
+    "LGA" : "Olamaboro",
+    "State" : "Kogi ",
+    "FC" : "FC/214/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Omala",
+    "State" : "Kogi ",
+    "FC" : "FC/214/KG",
+    "SD" : "SD/065/KG"
+},
+{
+    "LGA" : "Yagba East",
+    "State" : "Kogi ",
+    "FC" : "FC/221/KG",
+    "SD" : "SD/066/KG"
+},
+{
+    "LGA" : "Yagba West",
+    "State" : "Kogi ",
+    "FC" : "FC/221/KG",
+    "SD" : "SD/066/KG"
+},
+{
+    "LGA" : "Asa",
+    "State" : "Kwara ",
+    "FC" : "FC/226/KW",
+    "SD" : "SD/068/KW"
+},
+{
+    "LGA" : "Baruten",
+    "State" : "Kwara ",
+    "FC" : "FC/222/KW",
+    "SD" : "SD/067/KW"
+},
+{
+    "LGA" : "Edu",
+    "State" : "Kwara ",
+    "FC" : "FC/223/KW",
+    "SD" : "SD/067/KW"
+},
+{
+    "LGA" : "Ekiti",
+    "State" : "Kwara ",
+    "FC" : "FC/224/KW",
+    "SD" : "SD/069/KW"
+},
+{
+    "LGA" : "Ifelodun",
+    "State" : "Kwara ",
+    "FC" : "FC/227/KW",
+    "SD" : "SD/069/KW"
+},
+{
+    "LGA" : "Ilorin East",
+    "State" : "Kwara ",
+    "FC" : "FC/225/KW",
+    "SD" : "SD/068/KW"
+},
+{
+    "LGA" : "Ilorin South",
+    "State" : "Kwara ",
+    "FC" : "FC/225/KW",
+    "SD" : "SD/068/KW"
+},
+{
+    "LGA" : "Ilorin West",
+    "State" : "Kwara ",
+    "FC" : "FC/226/KW",
+    "SD" : "SD/068/KW"
+},
+{
+    "LGA" : "Irepodun",
+    "State" : "Kwara ",
+    "FC" : "FC/224/KW",
+    "SD" : "SD/069/KW"
+},
+{
+    "LGA" : "Isin",
+    "State" : "Kwara ",
+    "FC" : "FC/224/KW",
+    "SD" : "SD/069/KW"
+},
+{
+    "LGA" : "Kaiama",
+    "State" : "Kwara ",
+    "FC" : "FC/222/KW",
+    "SD" : "SD/067/KW"
+},
+{
+    "LGA" : "Moro",
+    "State" : "Kwara ",
+    "FC" : "FC/223/KW",
+    "SD" : "SD/067/KW"
+},
+{
+    "LGA" : "Offa",
+    "State" : "Kwara ",
+    "FC" : "FC/227/KW",
+    "SD" : "SD/068/KW"
+},
+{
+    "LGA" : "Oke Ero",
+    "State" : "Kwara ",
+    "FC" : "FC/224/KW",
+    "SD" : "SD/069/KW"
+},
+{
+    "LGA" : "Oyun",
+    "State" : "Kwara ",
+    "FC" : "FC/227/KW",
+    "SD" : "SD/069/KW"
+},
+{
+    "LGA" : "Pategi",
+    "State" : "Kwara ",
+    "FC" : "FC/223/KW",
+    "SD" : "SD/067/KW"
+},
+{
+    "LGA" : "Agege",
+    "State" : "Lagos ",
+    "FC" : "FC/225/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Ajeromi-Ifelodun",
+    "State" : "Lagos ",
+    "FC" : "FC/245/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Alimosho",
+    "State" : "Lagos ",
+    "FC" : "FC/230/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Amuwo-Odofin",
+    "State" : "Lagos ",
+    "FC" : "FC/244/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Apapa",
+    "State" : "Lagos ",
+    "FC" : "FC/235/LA",
+    "SD" : "SD/070/LA"
+},
+{
+    "LGA" : "Badagry",
+    "State" : "Lagos ",
+    "FC" : "FC/231/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Epe",
+    "State" : "Lagos ",
+    "FC" : "FC/232/LA",
+    "SD" : "SD/071/LA"
+},
+{
+    "LGA" : "Eti Osa",
+    "State" : "Lagos ",
+    "FC" : "FC/234/LA",
+    "SD" : "SD/070/LA"
+},
+{
+    "LGA" : "Ibeju-Lekki",
+    "State" : "Lagos ",
+    "FC" : "FC/233/LA",
+    "SD" : "SD/071/LA"
+},
+{
+    "LGA" : "Ifako-Ijaiye",
+    "State" : "Lagos ",
+    "FC" : "FC/229/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Ikeja",
+    "State" : "Lagos ",
+    "FC" : "FC/236/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Ikorodu",
+    "State" : "Lagos ",
+    "FC" : "FC/237/LA",
+    "SD" : "SD/071/LA"
+},
+{
+    "LGA" : "Kosofe",
+    "State" : "Lagos ",
+    "FC" : "FC/249/LA",
+    "SD" : "SD/071/LA"
+},
+{
+    "LGA" : "Lagos Island 1",
+    "State" : "Lagos ",
+    "FC" : "FC/238/LA",
+    "SD" : "SD/070/LA"
+},
+{
+    "LGA" : "Lagos Island II",
+    "State" : "Lagos ",
+    "FC" : "FC/238/LA",
+    "SD" : "SD/070/LA"
+},
+{
+    "LGA" : "Lagos Mainland",
+    "State" : "Lagos ",
+    "FC" : "FC/240/LA",
+    "SD" : "SD/070/LA"
+},
+{
+    "LGA" : "Mushin",
+    "State" : "Lagos ",
+    "FC" : "FC/241/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Ojo",
+    "State" : "Lagos ",
+    "FC" : "FC/243/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Oshodi-Isolo I",
+    "State" : "Lagos ",
+    "FC" : "FC/246/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Oshodi-Isolo II",
+    "State" : "Lagos ",
+    "FC" : "FC/247/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Shomolu",
+    "State" : "Lagos ",
+    "FC" : "FC/248/LA",
+    "SD" : "SD/072/LA"
+},
+{
+    "LGA" : "Surulere I",
+    "State" : "Lagos ",
+    "FC" : "FC/250/LA",
+    "SD" : "SD/070/LA"
+},
+{
+    "LGA" : "Surulere II",
+    "State" : "Lagos ",
+    "FC" : "FC/251/LA",
+    "SD" : "SD/070/LA"
+},
+{
+    "LGA" : "Akwanga",
+    "State" : "Nasarawa ",
+    "FC" : "FC/252/NW",
+    "SD" : "SD/073/NW"
+},
+{
+    "LGA" : "Awe",
+    "State" : "Nasarawa ",
+    "FC" : "FC/253/NW",
+    "SD" : "SD/075/NW"
+},
+{
+    "LGA" : "Doma",
+    "State" : "Nasarawa ",
+    "FC" : "FC/253/NW",
+    "SD" : "SD/075/NW"
+},
+{
+    "LGA" : "Karu",
+    "State" : "Nasarawa ",
+    "FC" : "FC/254/NW",
+    "SD" : "SD/074/NW"
+},
+{
+    "LGA" : "Keana",
+    "State" : "Nasarawa ",
+    "FC" : "FC/253/NW",
+    "SD" : "SD/074/NW"
+},
+{
+    "LGA" : "Keffi",
+    "State" : "Nasarawa ",
+    "FC" : "FC/254/NW",
+    "SD" : "SD/076/NW"
+},
+{
+    "LGA" : "Kokona",
+    "State" : "Nasarawa ",
+    "FC" : "FC/254/NW",
+    "SD" : "SD/074/NW"
+},
+{
+    "LGA" : "Lafia",
+    "State" : "Nasarawa ",
+    "FC" : "FC/255/NW",
+    "SD" : "SD/075/NW"
+},
+{
+    "LGA" : "Nasarawa",
+    "State" : "Nasarawa ",
+    "FC" : "FC/252/NW",
+    "SD" : "SD/074/NW"
+},
+{
+    "LGA" : "Nasarawa Egon",
+    "State" : "Nasarawa ",
+    "FC" : "FC/252/NW",
+    "SD" : "SD/073/NW"
+},
+{
+    "LGA" : "Obi",
+    "State" : "Nasarawa ",
+    "FC" : "FC/255/NW",
+    "SD" : "SD/075/NW"
+},
+{
+    "LGA" : "Toto",
+    "State" : "Nasarawa ",
+    "FC" : "FC/256/NW",
+    "SD" : "SD/074/NW"
+},
+{
+    "LGA" : "Wamba",
+    "State" : "Nasarawa ",
+    "FC" : "FC/252/NW",
+    "SD" : "SD/073/NW"
+},
+{
+    "LGA" : "Agaie",
+    "State" : "Niger ",
+    "FC" : "FC/257/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Agwara",
+    "State" : "Niger ",
+    "FC" : "FC/258/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Bida",
+    "State" : "Niger ",
+    "FC" : "FC/259/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Borgu",
+    "State" : "Niger ",
+    "FC" : "FC/258/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Bosso",
+    "State" : "Niger ",
+    "FC" : "FC/260/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Chanchaga",
+    "State" : "Niger ",
+    "FC" : "FC/261/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Edati",
+    "State" : "Niger ",
+    "FC" : "FC/263/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Gbako",
+    "State" : "Niger ",
+    "FC" : "FC/259/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Gurara",
+    "State" : "Niger ",
+    "FC" : "FC/262/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Katcha",
+    "State" : "Niger ",
+    "FC" : "FC/259/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Kontagora",
+    "State" : "Niger ",
+    "FC" : "FC/265/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Lapai",
+    "State" : "Niger ",
+    "FC" : "FC/257/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Lavun",
+    "State" : "Niger ",
+    "FC" : "FC/263/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Magama",
+    "State" : "Niger ",
+    "FC" : "FC/264/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Mariga",
+    "State" : "Niger ",
+    "FC" : "FC/265/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Mashegu",
+    "State" : "Niger ",
+    "FC" : "FC/265/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Mokwa",
+    "State" : "Niger ",
+    "FC" : "FC/263/NG",
+    "SD" : "SD/078/NG"
+},
+{
+    "LGA" : "Moya",
+    "State" : "Niger ",
+    "FC" : "FC/266/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Paikoro",
+    "State" : "Niger ",
+    "FC" : "FC/260/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Rafi",
+    "State" : "Niger ",
+    "FC" : "FC/266/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Rijau",
+    "State" : "Niger ",
+    "FC" : "FC/264/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Shiroro",
+    "State" : "Niger ",
+    "FC" : "FC/266/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Suleja",
+    "State" : "Niger ",
+    "FC" : "FC/262/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Tafa",
+    "State" : "Niger ",
+    "FC" : "FC/262/NG",
+    "SD" : "SD/076/NG"
+},
+{
+    "LGA" : "Wushishi",
+    "State" : "Niger ",
+    "FC" : "FC/265/NG",
+    "SD" : "SD/077/NG"
+},
+{
+    "LGA" : "Abeokuta North",
+    "State" : "Ogun ",
+    "FC" : "FC/268/OG",
+    "SD" : "SD/079/OG"
+},
+{
+    "LGA" : "Abeokuta South",
+    "State" : "Ogun ",
+    "FC" : "FC/268/OG",
+    "SD" : "SD/079/OG"
+},
+{
+    "LGA" : "Ado-Odo/Ota",
+    "State" : "Ogun ",
+    "FC" : "FC/269/OG",
+    "SD" : "SD/081/OG"
+},
+{
+    "LGA" : "Egbado North",
+    "State" : "Ogun ",
+    "FC" : "FC/270/OG",
+    "SD" : "SD/081/OG"
+},
+{
+    "LGA" : "Egbado South",
+    "State" : "Ogun ",
+    "FC" : "FC/271/OG",
+    "SD" : "SD/081/OG"
+},
+{
+    "LGA" : "Ewekoro",
+    "State" : "Ogun ",
+    "FC" : "FC/272/OG",
+    "SD" : "SD/079/OG"
+},
+{
+    "LGA" : "Ifo",
+    "State" : "Ogun ",
+    "FC" : "FC/272/OG",
+    "SD" : "SD/079/OG"
+},
+{
+    "LGA" : "Ijebu East",
+    "State" : "Ogun ",
+    "FC" : "FC/273/OG",
+    "SD" : "SD/090/OG"
+},
+{
+    "LGA" : "Ijebu North",
+    "State" : "Ogun ",
+    "FC" : "FC/273/OG",
+    "SD" : "SD/090/OG"
+},
+{
+    "LGA" : "Ijebu North East",
+    "State" : "Ogun ",
+    "FC" : "FC/274/OG",
+    "SD" : "SD/090/OG"
+},
+{
+    "LGA" : "Ijebu Ode",
+    "State" : "Ogun ",
+    "FC" : "FC/274/OG",
+    "SD" : "SD/080/OG"
+},
+{
+    "LGA" : "Ikenne",
+    "State" : "Ogun ",
+    "FC" : "FC/275/OG",
+    "SD" : "SD/080/OG"
+},
+{
+    "LGA" : "Imeko Afon",
+    "State" : "Ogun ",
+    "FC" : "FC/270/OG",
+    "SD" : "SD/081/OG"
+},
+{
+    "LGA" : "Ipokia",
+    "State" : "Ogun ",
+    "FC" : "FC/271/OG",
+    "SD" : "SD/081/OG"
+},
+{
+    "LGA" : "Obafemi Owode",
+    "State" : "Ogun ",
+    "FC" : "FC/267/OG",
+    "SD" : "SD/079/OG"
+},
+{
+    "LGA" : "Odeda",
+    "State" : "Ogun ",
+    "FC" : "FC/267/OG",
+    "SD" : "SD/079/OG"
+},
+{
+    "LGA" : "Odogbolu",
+    "State" : "Ogun ",
+    "FC" : "FC/274/OG",
+    "SD" : "SD/080/OG"
+},
+{
+    "LGA" : "Ogun Waterside",
+    "State" : "Ogun ",
+    "FC" : "FC/273/OG",
+    "SD" : "SD/080/OG"
+},
+{
+    "LGA" : "Remo North",
+    "State" : "Ogun ",
+    "FC" : "FC/275/OG",
+    "SD" : "SD/089/OG"
+},
+{
+    "LGA" : "Shagamu",
+    "State" : "Ogun ",
+    "FC" : "FC/275/OG",
+    "SD" : "SD/089/OG"
+},
+{
+    "LGA" : "Akoko North-East",
+    "State" : "Ondo ",
+    "FC" : "FC/276/OD",
+    "SD" : "SD/082/OD"
+},
+{
+    "LGA" : "Akoko North-West",
+    "State" : "Ondo ",
+    "FC" : "FC/276/OD",
+    "SD" : "SD/082/OD"
+},
+{
+    "LGA" : "Akoko South-West",
+    "State" : "Ondo ",
+    "FC" : "FC/277/OD",
+    "SD" : "SD/082/OD"
+},
+{
+    "LGA" : "Akoko South-East",
+    "State" : "Ondo ",
+    "FC" : "FC/277/OD",
+    "SD" : "SD/082/OD"
+},
+{
+    "LGA" : "Akure North",
+    "State" : "Ondo ",
+    "FC" : "FC/278/OD",
+    "SD" : "SD/083/OD"
+},
+{
+    "LGA" : "Akure South",
+    "State" : "Ondo ",
+    "FC" : "FC/278/OD",
+    "SD" : "SD/083/OD"
+},
+{
+    "LGA" : "Ese Odo",
+    "State" : "Ondo ",
+    "FC" : "FC/282/OD",
+    "SD" : "SD/084/OD"
+},
+{
+    "LGA" : "Idanre",
+    "State" : "Ondo ",
+    "FC" : "FC/279/OD",
+    "SD" : "SD/083/OD"
+},
+{
+    "LGA" : "Ifedore",
+    "State" : "Ondo ",
+    "FC" : "FC/279/OD",
+    "SD" : "SD/083/OD"
+},
+{
+    "LGA" : "Ilaje",
+    "State" : "Ondo ",
+    "FC" : "FC/282/OD",
+    "SD" : "SD/083/OD"
+},
+{
+    "LGA" : "Ile Oluji/Okeigbo",
+    "State" : "Ondo ",
+    "FC" : "FC/280/OD",
+    "SD" : "SD/084/OD"
+},
+{
+    "LGA" : "Irele",
+    "State" : "Ondo ",
+    "FC" : "FC/281/OD",
+    "SD" : "SD/084/OD"
+},
+{
+    "LGA" : "Odigbo",
+    "State" : "Ondo ",
+    "FC" : "FC/280/OD",
+    "SD" : "SD/084/OD"
+},
+{
+    "LGA" : "Okitipupa",
+    "State" : "Ondo ",
+    "FC" : "FC/281/OD",
+    "SD" : "SD/084/OD"
+},
+{
+    "LGA" : "Ondo East",
+    "State" : "Ondo ",
+    "FC" : "FC/283/OD",
+    "SD" : "SD/083/OD"
+},
+{
+    "LGA" : "Ondo West",
+    "State" : "Ondo ",
+    "FC" : "FC/283/OD",
+    "SD" : "SD/083/OD"
+},
+{
+    "LGA" : "Ose",
+    "State" : "Ondo ",
+    "FC" : "FC/284/OD",
+    "SD" : "SD/082/OD"
+},
+{
+    "LGA" : "Owo",
+    "State" : "Ondo ",
+    "FC" : "FC/284/OD",
+    "SD" : "SD/082/OD"
+},
+{
+    "LGA" : "Atakunmosa East",
+    "State" : "Osun ",
+    "FC" : "FC/288/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Atakunmosa West",
+    "State" : "Osun ",
+    "FC" : "FC/288/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Aiyedaade",
+    "State" : "Osun ",
+    "FC" : "FC/292/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Aiyedire",
+    "State" : "Osun ",
+    "FC" : "FC/291/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Boluwaduro",
+    "State" : "Osun ",
+    "FC" : "FC/287/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Boripe",
+    "State" : "Osun ",
+    "FC" : "FC/286/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Ede North",
+    "State" : "Osun ",
+    "FC" : "FC/293/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Ede South",
+    "State" : "Osun ",
+    "FC" : "FC/293/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Ife Central",
+    "State" : "Osun ",
+    "FC" : "FC/290/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Ife East",
+    "State" : "Osun ",
+    "FC" : "FC/290/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Ife North",
+    "State" : "Osun ",
+    "FC" : "FC/290/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Ife South",
+    "State" : "Osun ",
+    "FC" : "FC/290/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Egbedore",
+    "State" : "Osun ",
+    "FC" : "FC/293/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Ejigbo",
+    "State" : "Osun ",
+    "FC" : "FC/293/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Ifedayo",
+    "State" : "Osun ",
+    "FC" : "FC/287/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Ifelodun",
+    "State" : "Osun ",
+    "FC" : "FC/286/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Ila",
+    "State" : "Osun ",
+    "FC" : "FC/287/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Ilesa East",
+    "State" : "Osun ",
+    "FC" : "FC/288/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Ilesa West",
+    "State" : "Osun ",
+    "FC" : "FC/288/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Irepodun",
+    "State" : "Osun ",
+    "FC" : "FC/285/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Irewole",
+    "State" : "Osun ",
+    "FC" : "FC/292/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Isokan",
+    "State" : "Osun ",
+    "FC" : "FC/293/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Iwo",
+    "State" : "Osun ",
+    "FC" : "FC/291/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Obokun",
+    "State" : "Osun ",
+    "FC" : "FC/289/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Odo Otin",
+    "State" : "Osun ",
+    "FC" : "FC/286/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Ola Oluwa",
+    "State" : "Osun ",
+    "FC" : "FC/291/OS",
+    "SD" : "SD/087/OS"
+},
+{
+    "LGA" : "Olorunda",
+    "State" : "Osun ",
+    "FC" : "FC/285/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Oriade",
+    "State" : "Osun ",
+    "FC" : "FC/289/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Orolu",
+    "State" : "Osun ",
+    "FC" : "FC/285/OS",
+    "SD" : "SD/086/OS"
+},
+{
+    "LGA" : "Osogbo",
+    "State" : "Osun ",
+    "FC" : "FC/285/OS",
+    "SD" : "SD/085/OS"
+},
+{
+    "LGA" : "Afijio",
+    "State" : "Oyo ",
+    "FC" : "FC/294/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Akinyele",
+    "State" : "Oyo ",
+    "FC" : "FC/295/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Atiba",
+    "State" : "Oyo ",
+    "FC" : "FC/294/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Atisbo",
+    "State" : "Oyo ",
+    "FC" : "FC/299/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Egbeda",
+    "State" : "Oyo ",
+    "FC" : "FC/296/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Ibadan North",
+    "State" : "Oyo ",
+    "FC" : "FC/307/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Ibadan North-East",
+    "State" : "Oyo ",
+    "FC" : "FC/305/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Ibadan North-West",
+    "State" : "Oyo ",
+    "FC" : "FC/306/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Ibadan South-East",
+    "State" : "Oyo ",
+    "FC" : "FC/305/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Ibadan South-West",
+    "State" : "Oyo ",
+    "FC" : "FC/306/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Ibarapa Central",
+    "State" : "Oyo ",
+    "FC" : "FC/297/OY",
+    "SD" : "SD/099/OY"
+},
+{
+    "LGA" : "Ibarapa East",
+    "State" : "Oyo ",
+    "FC" : "FC/298/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Ibarapa North",
+    "State" : "Oyo ",
+    "FC" : "FC/297/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Ido",
+    "State" : "Oyo ",
+    "FC" : "FC/298/OY",
+    "SD" : "SD/090/OY"
+},
+{
+    "LGA" : "Irepo",
+    "State" : "Oyo ",
+    "FC" : "FC/300/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Iseyin",
+    "State" : "Oyo ",
+    "FC" : "FC/301/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Itesiwaju",
+    "State" : "Oyo ",
+    "FC" : "FC/301/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Iwajowa",
+    "State" : "Oyo ",
+    "FC" : "FC/301/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Kajola",
+    "State" : "Oyo ",
+    "FC" : "FC/301/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Lagelu",
+    "State" : "Oyo ",
+    "FC" : "FC/295/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Ogbomosho North",
+    "State" : "Oyo ",
+    "FC" : "FC/302/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Ogbomosho South",
+    "State" : "Oyo ",
+    "FC" : "FC/302/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Ogo Oluwa",
+    "State" : "Oyo ",
+    "FC" : "FC/303/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Olorunsogo",
+    "State" : "Oyo ",
+    "FC" : "FC/300/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Oluyole",
+    "State" : "Oyo ",
+    "FC" : "FC/304/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Ona Ara",
+    "State" : "Oyo ",
+    "FC" : "FC/296/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Orelope",
+    "State" : "Oyo ",
+    "FC" : "FC/300/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Ori Ire",
+    "State" : "Oyo ",
+    "FC" : "FC/302/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Oyo West",
+    "State" : "Oyo ",
+    "FC" : "FC/294/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Oyo East",
+    "State" : "Oyo ",
+    "FC" : "FC/294/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Saki East",
+    "State" : "Oyo ",
+    "FC" : "FC/299/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Saki West",
+    "State" : "Oyo ",
+    "FC" : "FC/299/OY",
+    "SD" : "SD/089/OY"
+},
+{
+    "LGA" : "Surulere",
+    "State" : "Oyo ",
+    "FC" : "FC/303/OY",
+    "SD" : "SD/088/OY"
+},
+{
+    "LGA" : "Bokkos",
+    "State" : "Plateau ",
+    "FC" : "FC/311/PL",
+    "SD" : "SD/092/PL"
+},
+{
+    "LGA" : "Barkin Ladi",
+    "State" : "Plateau ",
+    "FC" : "FC/310/PL",
+    "SD" : "SD/093/PL"
+},
+{
+    "LGA" : "Bassa",
+    "State" : "Plateau ",
+    "FC" : "FC/308/PL",
+    "SD" : "SD/093/PL"
+},
+{
+    "LGA" : "Jos East",
+    "State" : "Plateau ",
+    "FC" : "FC/309/PL",
+    "SD" : "SD/093/PL"
+},
+{
+    "LGA" : "Jos North",
+    "State" : "Plateau ",
+    "FC" : "FC/308/PL",
+    "SD" : "SD/093/PL"
+},
+{
+    "LGA" : "Jos South",
+    "State" : "Plateau ",
+    "FC" : "FC/309/PL",
+    "SD" : "SD/093/PL"
+},
+{
+    "LGA" : "Kanam",
+    "State" : "Plateau ",
+    "FC" : "FC/312/PL",
+    "SD" : "SD/092/PL"
+},
+{
+    "LGA" : "Kanke",
+    "State" : "Plateau ",
+    "FC" : "FC/312/PL",
+    "SD" : "SD/092/PL"
+},
+{
+    "LGA" : "Langtang South",
+    "State" : "Plateau ",
+    "FC" : "FC/314/PL",
+    "SD" : "SD/091/PL"
+},
+{
+    "LGA" : "Langtang North",
+    "State" : "Plateau ",
+    "FC" : "FC/314/PL",
+    "SD" : "SD/091/PL"
+},
+{
+    "LGA" : "Mangu",
+    "State" : "Plateau ",
+    "FC" : "FC/311/PL",
+    "SD" : "SD/092/PL"
+},
+{
+    "LGA" : "Mikang",
+    "State" : "Plateau ",
+    "FC" : "FC/315/PL",
+    "SD" : "SD/091/PL"
+},
+{
+    "LGA" : "Pankshin",
+    "State" : "Plateau ",
+    "FC" : "FC/312/PL",
+    "SD" : "SD/092/PL"
+},
+{
+    "LGA" : "Qua'an Pan",
+    "State" : "Plateau ",
+    "FC" : "FC/315/PL",
+    "SD" : "SD/091/PL"
+},
+{
+    "LGA" : "Riyom",
+    "State" : "Plateau ",
+    "FC" : "FC/310/PL",
+    "SD" : "SD/093/PL"
+},
+{
+    "LGA" : "Shendam",
+    "State" : "Plateau ",
+    "FC" : "FC/315/PL",
+    "SD" : "SD/091/PL"
+},
+{
+    "LGA" : "Wase",
+    "State" : "Plateau ",
+    "FC" : "FC/313/PL",
+    "SD" : "SD/091/PL"
+},
+{
+    "LGA" : "Abua/Odual",
+    "State" : "Rivers ",
+    "FC" : "FC/316/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Ahoada East",
+    "State" : "Rivers ",
+    "FC" : "FC/316/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Ahoada West",
+    "State" : "Rivers ",
+    "FC" : "FC/317/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Akuku-Toru",
+    "State" : "Rivers ",
+    "FC" : "FC/319/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Andoni",
+    "State" : "Rivers ",
+    "FC" : "FC/321/RV",
+    "SD" : "SD/095/RV"
+},
+{
+    "LGA" : "Asari-Toru",
+    "State" : "Rivers ",
+    "FC" : "FC/319/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Bonny",
+    "State" : "Rivers ",
+    "FC" : "FC/318/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Degema",
+    "State" : "Rivers ",
+    "FC" : "FC/318/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Eleme",
+    "State" : "Rivers ",
+    "FC" : "FC/322/RV",
+    "SD" : "SD/095/RV"
+},
+{
+    "LGA" : "Emuoha",
+    "State" : "Rivers ",
+    "FC" : "FC/324/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Etche",
+    "State" : "Rivers ",
+    "FC" : "FC/325/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Gokana",
+    "State" : "Rivers ",
+    "FC" : "FC/323/RV",
+    "SD" : "SD/095/RV"
+},
+{
+    "LGA" : "Ikwerre",
+    "State" : "Rivers ",
+    "FC" : "FC/324/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Khana",
+    "State" : "Rivers ",
+    "FC" : "FC/323/RV",
+    "SD" : "SD/095/RV"
+},
+{
+    "LGA" : "Obio/Akpor",
+    "State" : "Rivers ",
+    "FC" : "FC/326/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Ogba/Egbema/Ndoni",
+    "State" : "Rivers ",
+    "FC" : "FC/317/RV",
+    "SD" : "SD/096/RV"
+},
+{
+    "LGA" : "Ogu/Bolo",
+    "State" : "Rivers ",
+    "FC" : "FC/320/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Okrika",
+    "State" : "Rivers ",
+    "FC" : "FC/320/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Omuma",
+    "State" : "Rivers ",
+    "FC" : "FC/325/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Opobo/Nkoro",
+    "State" : "Rivers ",
+    "FC" : "FC/321/RV",
+    "SD" : "SD/095/RV"
+},
+{
+    "LGA" : "Oyigbo",
+    "State" : "Rivers ",
+    "FC" : "FC/322/RV",
+    "SD" : "SD/095/RV"
+},
+{
+    "LGA" : "Port Harcourt",
+    "State" : "Rivers ",
+    "FC" : "FC/327/RV",
+    "SD" : "SD/094/RV"
+},
+{
+    "LGA" : "Tai",
+    "State" : "Rivers ",
+    "FC" : "FC/322/RV",
+    "SD" : "SD/095/RV"
+},
+{
+    "LGA" : "Binji",
+    "State" : "Sokoto ",
+    "FC" : "FC/334/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Bodinga",
+    "State" : "Sokoto ",
+    "FC" : "FC/337/SO",
+    "SD" : "SD/099/SO"
+},
+{
+    "LGA" : "Dange Shuni",
+    "State" : "Sokoto ",
+    "FC" : "FC/337/SO",
+    "SD" : "SD/099/SO"
+},
+{
+    "LGA" : "Gada",
+    "State" : "Sokoto ",
+    "FC" : "FC/330/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Goronyo",
+    "State" : "Sokoto ",
+    "FC" : "FC/330/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Gudu",
+    "State" : "Sokoto ",
+    "FC" : "FC/333/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Gwadabawa",
+    "State" : "Sokoto ",
+    "FC" : "FC/332/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Illela",
+    "State" : "Sokoto ",
+    "FC" : "FC/332/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Isa",
+    "State" : "Sokoto ",
+    "FC" : "FC/329/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Kebbe",
+    "State" : "Sokoto ",
+    "FC" : "FC/339/SO",
+    "SD" : "SD/099/SO"
+},
+{
+    "LGA" : "Kware",
+    "State" : "Sokoto ",
+    "FC" : "FC/335/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Rabah",
+    "State" : "Sokoto ",
+    "FC" : "FC/331/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Sabon Birni",
+    "State" : "Sokoto ",
+    "FC" : "FC/329/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Shagari",
+    "State" : "Sokoto ",
+    "FC" : "FC/338/SO",
+    "SD" : "SD/099/SO"
+},
+{
+    "LGA" : "Silame",
+    "State" : "Sokoto ",
+    "FC" : "FC/334/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Sokoto North",
+    "State" : "Sokoto ",
+    "FC" : "FC/336/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Sokoto South",
+    "State" : "Sokoto ",
+    "FC" : "FC/336/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Tambuwal",
+    "State" : "Sokoto ",
+    "FC" : "FC/339/SO",
+    "SD" : "SD/099/SO"
+},
+{
+    "LGA" : "Tangaza",
+    "State" : "Sokoto ",
+    "FC" : "FC/333/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Tureta",
+    "State" : "Sokoto ",
+    "FC" : "FC/337/SO",
+    "SD" : "SD/099/SO"
+},
+{
+    "LGA" : "Wamako",
+    "State" : "Sokoto ",
+    "FC" : "FC/335/SO",
+    "SD" : "SD/098/SO"
+},
+{
+    "LGA" : "Wurno",
+    "State" : "Sokoto ",
+    "FC" : "FC/331/SO",
+    "SD" : "SD/097/SO"
+},
+{
+    "LGA" : "Yabo",
+    "State" : "Sokoto ",
+    "FC" : "FC/338/SO",
+    "SD" : "SD/099/SO"
+},
+{
+    "LGA" : "Ardo Kola",
+    "State" : "Taraba ",
+    "FC" : "FC/345/TR",
+    "SD" : "SD/102/TR"
+},
+{
+    "LGA" : "Bali",
+    "State" : "Taraba ",
+    "FC" : "FC/346/TR",
+    "SD" : "SD/101/TR"
+},
+{
+    "LGA" : "Donga",
+    "State" : "Taraba ",
+    "FC" : "FC/341/TR",
+    "SD" : "SD/100/TR"
+},
+{
+    "LGA" : "Gashaka",
+    "State" : "Taraba ",
+    "FC" : "FC/342/TR",
+    "SD" : "SD/101/TR"
+},
+{
+    "LGA" : "Gassol",
+    "State" : "Taraba ",
+    "FC" : "FC/340/TR",
+    "SD" : "SD/101/TR"
+},
+{
+    "LGA" : "Ibi",
+    "State" : "Taraba ",
+    "FC" : "FC/343/TR",
+    "SD" : "SD/100/TR"
+},
+{
+    "LGA" : "Jalingo",
+    "State" : "Taraba ",
+    "FC" : "FC/344/TR",
+    "SD" : "SD/102/TR"
+},
+{
+    "LGA" : "Karim Lamido",
+    "State" : "Taraba ",
+    "FC" : "FC/345/TR",
+    "SD" : "SD/102/TR"
+},
+{
+    "LGA" : "Kumi",
+    "State" : "Taraba ",
+    "FC" : "FC/342/TR",
+    "SD" : "SD/101/TR"
+},
+{
+    "LGA" : "Lau",
+    "State" : "Taraba ",
+    "FC" : "FC/345/TR",
+    "SD" : "SD/102/TR"
+},
+{
+    "LGA" : "Sardauna",
+    "State" : "Taraba ",
+    "FC" : "FC/342/TR",
+    "SD" : "SD/101/TR"
+},
+{
+    "LGA" : "Takum",
+    "State" : "Taraba ",
+    "FC" : "FC/341/TR",
+    "SD" : "SD/100/TR"
+},
+{
+    "LGA" : "Ussa",
+    "State" : "Taraba ",
+    "FC" : "FC/341/TR",
+    "SD" : "SD/100/TR"
+},
+{
+    "LGA" : "Wukari",
+    "State" : "Taraba ",
+    "FC" : "FC/343/TR",
+    "SD" : "SD/100/TR"
+},
+{
+    "LGA" : "Yorro",
+    "State" : "Taraba ",
+    "FC" : "FC/344/TR",
+    "SD" : "SD/102/TR"
+},
+{
+    "LGA" : "Zing",
+    "State" : "Taraba ",
+    "FC" : "FC/344/TR",
+    "SD" : "SD/102/TR"
+},
+{
+    "LGA" : "Bade",
+    "State" : "Yobe ",
+    "FC" : "FC/346/YB",
+    "SD" : "SD/104/YB"
+},
+{
+    "LGA" : "Bursari",
+    "State" : "Yobe ",
+    "FC" : "FC/347/YB",
+    "SD" : "SD/103/YB"
+},
+{
+    "LGA" : "Damaturu",
+    "State" : "Yobe ",
+    "FC" : "FC/348/YB",
+    "SD" : "SD/105/YB"
+},
+{
+    "LGA" : "Fika",
+    "State" : "Yobe ",
+    "FC" : "FC/349/YB",
+    "SD" : "SD/105/YB"
+},
+{
+    "LGA" : "Fune",
+    "State" : "Yobe ",
+    "FC" : "FC/349/YB",
+    "SD" : "SD/105/YB"
+},
+{
+    "LGA" : "Geidam",
+    "State" : "Yobe ",
+    "FC" : "FC/347/YB",
+    "SD" : "SD/103/YB"
+},
+{
+    "LGA" : "Gujba",
+    "State" : "Yobe ",
+    "FC" : "FC/348/YB",
+    "SD" : "SD/103/YB"
+},
+{
+    "LGA" : "Gulani",
+    "State" : "Yobe ",
+    "FC" : "FC/348/YB",
+    "SD" : "SD/103/YB"
+},
+{
+    "LGA" : "Jakusko",
+    "State" : "Yobe ",
+    "FC" : "FC/346/YB",
+    "SD" : "SD/104/YB"
+},
+{
+    "LGA" : "Karasuwa",
+    "State" : "Yobe ",
+    "FC" : "FC/350/YB",
+    "SD" : "SD/104/YB"
+},
+{
+    "LGA" : "Machina",
+    "State" : "Yobe ",
+    "FC" : "FC/350/YB",
+    "SD" : "SD/104/YB"
+},
+{
+    "LGA" : "Nangere",
+    "State" : "Yobe ",
+    "FC" : "FC/351/YB",
+    "SD" : "SD/105/YB"
+},
+{
+    "LGA" : "Nguru",
+    "State" : "Yobe ",
+    "FC" : "FC/350/YB",
+    "SD" : "SD/104/YB"
+},
+{
+    "LGA" : "Potiskum",
+    "State" : "Yobe ",
+    "FC" : "FC/351/YB",
+    "SD" : "SD/105/YB"
+},
+{
+    "LGA" : "Tarmuwa",
+    "State" : "Yobe ",
+    "FC" : "FC/348/YB",
+    "SD" : "SD/103/YB"
+},
+{
+    "LGA" : "Yunusari",
+    "State" : "Yobe ",
+    "FC" : "FC/347/YB",
+    "SD" : "SD/104/YB"
+},
+{
+    "LGA" : "Yusufari",
+    "State" : "Yobe ",
+    "FC" : "FC/350/YB",
+    "SD" : "SD/103/YB"
+},
+{
+    "LGA" : "Anka",
+    "State" : "Zamfara ",
+    "FC" : "FC/356/ZF",
+    "SD" : "SD/108/ZF"
+},
+{
+    "LGA" : "Bakura",
+    "State" : "Zamfara ",
+    "FC" : "FC/357/ZF",
+    "SD" : "SD/108/ZF"
+},
+{
+    "LGA" : "Birnin Magaji/Kiyaw",
+    "State" : "Zamfara ",
+    "FC" : "FC/352/ZF",
+    "SD" : "SD/106/ZF"
+},
+{
+    "LGA" : "Bukkuyum",
+    "State" : "Zamfara ",
+    "FC" : "FC/358/ZF",
+    "SD" : "SD/108/ZF"
+},
+{
+    "LGA" : "Bungudu",
+    "State" : "Zamfara ",
+    "FC" : "FC/355/ZF",
+    "SD" : "SD/107/ZF"
+},
+{
+    "LGA" : "Gummi",
+    "State" : "Zamfara ",
+    "FC" : "FC/358/ZF",
+    "SD" : "SD/108/ZF"
+},
+{
+    "LGA" : "Gusau",
+    "State" : "Zamfara ",
+    "FC" : "FC/354/ZF",
+    "SD" : "SD/107/ZF"
+},
+{
+    "LGA" : "Kaura Namoda",
+    "State" : "Zamfara ",
+    "FC" : "FC/352/ZF",
+    "SD" : "SD/106/ZF"
+},
+{
+    "LGA" : "Maradun",
+    "State" : "Zamfara ",
+    "FC" : "FC/357/ZF",
+    "SD" : "SD/108/ZF"
+},
+{
+    "LGA" : "Maru",
+    "State" : "Zamfara ",
+    "FC" : "FC/355/ZF",
+    "SD" : "SD/107/ZF"
+},
+{
+    "LGA" : "Shinkafi",
+    "State" : "Zamfara ",
+    "FC" : "FC/353/ZF",
+    "SD" : "SD/106/ZF"
+},
+{
+    "LGA" : "Talata Mafara",
+    "State" : "Zamfara ",
+    "FC" : "FC/356/ZF",
+    "SD" : "SD/106/ZF"
+},
+{
+    "LGA" : "Chafe",
+    "State" : "Zamfara ",
+    "FC" : "FC/354/ZF",
+    "SD" : "SD/107/ZF"
+},
+{
+    "LGA" : "Zurmi",
+    "State" : "Zamfara ",
+    "FC" : "FC/353/ZF",
+    "SD" : "SD/106/ZF"
+}
+]

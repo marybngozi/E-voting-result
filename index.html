@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="styles/main.css">
+  <title>Home | eVote</title>
+</head>
+<body>
+  <header>
+    <div id="top_bar">
+      <div id="logo"><a href="index.html"><img src="images/evote.png" alt="eVote logo"></a></div>
+      <nav>
+        <ul>
+          <li><a href="index.html" class="active">Presidential</a></li>
+          <li><a href="senator.html">Senatorial</a></li>
+          <li><a href="hrep.html">House of Rep</a></li>
+        </ul>
+      </nav>
+      <div class="time"></div>
+    </div>
+
+    <h2>Presidential Election</h2>
+  </header>
+  <main>
+    <div id="main_screen"></div>
+    <div id="v_scroll_screen">Hi</div>
+  </main>
+  <script src="scripts/main.js"></script>
+  <!--Load the AJAX API-->
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="scripts/president.js"></script>
+</body>
+</html>

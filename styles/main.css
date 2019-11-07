@@ -1,0 +1,93 @@
+*{
+  margin: auto;
+  padding: auto;
+}
+/* *****************HOME ********** */
+/******************
+Header Starts
+*******************/
+#top_bar{
+  width: 100%;
+  height: 100px;
+}
+#logo a img{
+  height: 100px;
+  width: 100px;
+  float: left;
+  padding-right: 2%;
+}
+#top_bar nav{
+  float: left;
+  margin-left: 9%;
+  padding-left: 3%;
+  padding-top: 3%;
+}
+#top_bar nav ul{
+  width: 500px;
+}
+#top_bar nav ul li{
+  list-style: none;
+  padding: 1%;
+  display: inline;
+}
+#top_bar nav ul li a{
+  text-decoration: none;
+  color: #0a4e0a;
+  font-size: 20px;
+  padding: 3%;
+  border-bottom: 1px solid #035503;
+  border-left: 1px solid #035503;
+}
+#top_bar nav ul li a.active{
+  text-decoration: none;
+  color: #e5f8e8;
+  font-size: 20px;
+  padding: 3%;
+  background: #0a4e0a;
+  border-bottom: 1px outset #035503;
+  border-left: 1px outset #035503;
+}
+.time{
+  padding-top: 1%;
+  padding-right: 2%;
+  float: right;
+  color: #0a4e0a;
+}
+h2{
+  text-align: center;
+  color: rgb(4, 37, 13);
+}
+/******************
+Header Ends
+*******************/
+
+/******************
+Main Starts
+*******************/
+main{
+  height: 509px;
+  width: 100%;
+}
+#main_screen{
+width: 67%;
+float: left;
+padding: 1%;
+height: 482px;
+/* box-shadow: 0px 1px 2px #0a4e0a; */
+border-right: 2px outset #0a4e0a;
+}
+#v_scroll_screen{
+  width: 27%;
+  float: right;
+  padding: 1%;
+  height: 482px;
+}
+#v_scroll_screen #input_lgas{
+  width: 70%;
+  height: 30px;
+}
+/******************
+Main Ends
+*******************/
+
+/* ****************** SENATOR ********** */

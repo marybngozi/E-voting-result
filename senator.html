@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="styles/main.css">
+  <title>Home | eVote</title>
+</head>
+<body>
+  <header>
+    <div id="top_bar">
+      <div id="logo"><a href="index.html"><img src="images/evote.png" alt="eVote logo"></a></div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Presidential</a></li>
+          <li><a href="senator.html" class="active">Senatorial</a></li>
+          <li><a href="hrep.html">House of Rep</a></li>
+        </ul>
+      </nav>
+      <div class="time"></div>
+    </div>
+
+    <h2>Senatorial Election</h2>
+  </header>
+  <main>
+    <div id="main_screen">Hello </div>
+    <div id="v_scroll_screen">
+      <h3>Select a LGA</h3>
+      <input list="lgas" id="input_lgas" name="lga" placeholder="Select a LGA">
+      <datalist name="lgas" id="lgas">
+
+      </datalist>
+    </div>
+  </main>
+  <script src="scripts/main.js"></script>
+  <script src="scripts/senator.js"></script>
+</body>
+</html>
