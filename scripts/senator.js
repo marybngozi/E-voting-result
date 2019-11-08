@@ -53,13 +53,28 @@ const getVotes = async() => {
   });
   window.name = JSON.stringify(LPObj);
 
+  let partySeats = {};
+  let partyArr = [];
+  for (const lga in LPObj) {
+    if (LPObj.hasOwnProperty(lga)) {
+      const party = Object.keys(LPObj[lga])[0];
+      partySeats[lga] = party;
+      partyArr.push(party);
+    }
+  }
+
+  partySeats = {};
+  partyArr.forEach((x) => {partySeats[x] = (partySeats[x] || 0) + 1;});
+  let lgaData = sortNarrnge(partySeats);
+
   // Set a callback to run when the Google Visualization API is loaded.
-  /* google.charts.setOnLoadCallback(() => {
+  google.charts.setOnLoadCallback(() => {
     let ccnt = 0
     let tarr = [];
-    for (const party in chartPresObj) {
-      if (chartPresObj.hasOwnProperty(party)) {
-        const vote = chartPresObj[party];
+    console.log(lgaData);
+    for (const party in lgaData) {
+      if (lgaData.hasOwnProperty(party)) {
+        const vote = lgaData[party];
         tarr.push([party, vote, colorArr[ccnt]]);
       }
       ccnt += 1;
@@ -72,12 +87,12 @@ const getVotes = async() => {
     ]);
 
     // Set chart options
-    var options = {'width':900,'height':500,'title':'Number of Seats','legend':'none'};
+    var options = {'width':700,'height':466,'title':'Number of Seats','legend':'none'};
 
     // Instantiate and draw our chart, passing in some options.
     var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));
     chart.draw(data, options);
-  }); */
+  });
 }
 
 getVotes();
@@ -105,7 +120,7 @@ const getEachLgaVotes = (lga) => {
       ]);
 
       // Set chart options
-      var options = {'width':700,'height':500,'title':'Number of Votes','legend':'none'};
+      var options = {'width':700,'height':466,'title':'Number of Votes','legend':'none'};
 
       // Instantiate and draw our chart, passing in some options.
       var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));

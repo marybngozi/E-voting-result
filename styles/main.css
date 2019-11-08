@@ -65,13 +65,13 @@ Header Ends
 Main Starts
 *******************/
 main{
-  height: 509px;
+  height: 480px;
   width: 100%;
 }
 #main_screen{
 width: 67%;
 float: left;
-height: 482px;
+height: 470px;
 text-align: center;
 border-right: 2px outset #0a4e0a;
 }
@@ -79,7 +79,7 @@ border-right: 2px outset #0a4e0a;
   width: 27%;
   float: right;
   padding: 1%;
-  height: 482px;
+  height: 470px;
 }
 #v_scroll_screen #input_lgas, #v_scroll_screen #input_state{
   font-size: 18px;
@@ -96,8 +96,12 @@ border-right: 2px outset #0a4e0a;
   color: #fff;
   border: none;
 }
-/******************
-Main Ends
-*******************/
-
-/* ****************** SENATOR ********** */
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #0a4e0a;
+  color: #e5f8e8;
+  padding: 3px;
+  height: 24px;
+}
