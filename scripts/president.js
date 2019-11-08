@@ -11,29 +11,6 @@ fetch('assets/lga.json')
   });
 });
 
-const sortNarrnge = (obj) => {
-  let sortParty = {};
-  Object.keys(obj).sort((a,b) => obj[b] - obj[a]).forEach(key => sortParty[key] = obj[key]);
-
-  let cnt = 0;
-  let sume = 0;
-  let chartPresObj = {};
-  for (const party in sortParty) {
-    if (sortParty.hasOwnProperty(party)) {
-      const trest = sortParty[party];
-      if (cnt < 5) {
-        chartPresObj[party] = trest;
-      }else{
-        sume += trest;
-      }
-      cnt += 1;
-    }
-  }
-  chartPresObj['Others'] = sume;
-
-  return chartPresObj;
-}
-
 const getVotes = async() => {
   await fetch(`${path}/evoting_api/v1/votes/`)
   .then(res => res.json())
@@ -83,7 +60,7 @@ const getVotes = async() => {
     ]);
 
     // Set chart options
-    var options = {'width':900,'height':500,'title':'Number of Votes','legend':'none'};
+    var options = {'width':700,'height':500,'title':'Number of Votes','legend':'none'};
 
     // Instantiate and draw our chart, passing in some options.
     var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));
@@ -93,7 +70,6 @@ const getVotes = async() => {
 
 const getStateVotes = async() => {
   await getVotes();
-  console.log(presidential);
 
   let states = presidential.map(pv => pv.state).filter((it, i, ar) => ar.indexOf(it) === i);
   let SPObj = {};
@@ -138,7 +114,7 @@ const getEachStateVotes = (state) => {
       ]);
 
       // Set chart options
-      var options = {'width':900,'height':500,'title':'Number of Votes','legend':'none'};
+      var options = {'width':700,'height':500,'title':'Number of Votes','legend':'none'};
 
       // Instantiate and draw our chart, passing in some options.
       var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));
@@ -148,7 +124,6 @@ const getEachStateVotes = (state) => {
     document.querySelector('#main_screen').innerHTML = '';
     document.querySelector('#headng').innerHTML = 'No Result Data for '+state+' State Presidential Election';
   }
-  console.log(data);
 }
 
 document.querySelector('#search_btn').addEventListener('click', () => {
@@ -157,6 +132,5 @@ document.querySelector('#search_btn').addEventListener('click', () => {
     // Do Nothing
   }else{
     getEachStateVotes(stateValue.trim());
-    console.log(stateValue);
   }
 })
