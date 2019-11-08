@@ -21,21 +21,18 @@
       <div class="time"></div>
     </div>
 
-    <h2>Senatorial Election</h2>
+    <h2>Senatorial Election Summary</h2>
   </header>
   <main>
     <div id="main_screen"></div>
     <div id="v_scroll_screen">
       <h3>Select a LGA</h3>
-      <input list="lgas" id="input_lgas" name="lga" placeholder="Select a LGA">
+      <input list="lgas" id="input_lgas" name="lga" placeholder="Start typing..."><button id="search_btn">GO</button>
       <datalist name="lgas" id="lgas">
 
       </datalist>
     </div>
   </main>
-  <script>
-    let page = "senatorial";
-  </script>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script src="scripts/main.js"></script>
   <script src="scripts/senator.js"></script>
