@@ -71,7 +71,7 @@ main{
 #main_screen{
   width: 67%;
   float: left;
-  height: 490px;
+  height: 480px;
   text-align: center;
   border-right: 2px outset #0a4e0a;
 }
