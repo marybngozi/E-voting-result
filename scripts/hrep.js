@@ -48,7 +48,7 @@ const getVotes = async() => {
       }
     });
     tempArr.forEach((x) => {tempObj[x] = (tempObj[x] || 0) + 1;});
-    let lgaData = sortNarrnge(tempObj)
+    let lgaData = sortNarrnge(tempObj)[0]
     LPObj[lga] = lgaData;
   });
   window.name = JSON.stringify(LPObj);
@@ -65,13 +65,13 @@ const getVotes = async() => {
 
   partySeats = {};
   partyArr.forEach((x) => {partySeats[x] = (partySeats[x] || 0) + 1;});
-  let lgaData = sortNarrnge(partySeats);
+  let lgaData = sortNarrnge(partySeats)[0];
 
   // Set a callback to run when the Google Visualization API is loaded.
   google.charts.setOnLoadCallback(() => {
     let ccnt = 0
     let tarr = [];
-    console.log(lgaData);
+    // console.log(lgaData);
     for (const party in lgaData) {
       if (lgaData.hasOwnProperty(party)) {
         const vote = lgaData[party];
@@ -90,7 +90,7 @@ const getVotes = async() => {
     var options = {'width':700,'height':466,'title':'Number of Seats','legend':'none'};
 
     // Instantiate and draw our chart, passing in some options.
-    var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));
+    var chart = new google.visualization.BarChart(document.querySelector('#mained_screen'));
     chart.draw(data, options);
   });
 }
@@ -101,7 +101,7 @@ const getEachLgaVotes = (lga) => {
   let data = JSON.parse(window.name);
   let partyDetail = data[lga];
   if (partyDetail) {
-    document.querySelector('#headng').innerHTML = lga+' LGA houseOfRep Election Result';
+    document.querySelector('#headng').innerHTML = lga+' LGA Federal Constituency Election Result';
     google.charts.setOnLoadCallback(() => {
       let ccnt = 0
       let tarr = [];
@@ -123,12 +123,14 @@ const getEachLgaVotes = (lga) => {
       var options = {'width':700,'height':466,'title':'Number of Votes','legend':'none'};
 
       // Instantiate and draw our chart, passing in some options.
-      var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));
+      var chart = new google.visualization.BarChart(document.querySelector('#mained_screen'));
       chart.draw(data, options);
     });
+    // Upadate Total NUmber of Votes
+    document.querySelector('#totalV').innerHTML = "Total Number of votes = "+getSumVotes(partyDetail);
   }else{
-    document.querySelector('#main_screen').innerHTML = '';
-    document.querySelector('#headng').innerHTML = 'No Result Data for '+lga+' LGA houseOfRep Election';
+    document.querySelector('#mained_screen').innerHTML = '';
+    document.querySelector('#headng').innerHTML = 'No Result Data for '+lga+' LGA Federal Constituency Election';
   }
 }
 

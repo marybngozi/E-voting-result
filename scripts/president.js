@@ -15,6 +15,7 @@ const getVotes = async() => {
   await fetch(`${path}/evoting_api/v1/votes/`)
   .then(res => res.json())
   .then(result => {
+    // console.log(result);
     result.forEach(d => {
       let eachObj = {};
       let votes = d.votes;
@@ -37,10 +38,12 @@ const getVotes = async() => {
 
   // let fp = {PDP: 5, NPM: 1, AA: 1, A: 2, YPP: 7, APGA: 12, NUP: 3, AAC: 6, CAP:2, UPP:4};
 
-  let chartPresObj = sortNarrnge(partiesObj);
+  let chartPresObj = sortNarrnge(partiesObj)[0];
 
   // Set a callback to run when the Google Visualization API is loaded.
   google.charts.setOnLoadCallback(drawChartPresident);
+  // Upadate Total NUmber of Votes
+  document.querySelector('#totalV').innerHTML = "Total Number of votes = "+sumerd;
 
   function drawChartPresident() {
     let ccnt = 0
@@ -63,7 +66,7 @@ const getVotes = async() => {
     var options = {'width':700,'height':466,'title':'Number of Votes','legend':'none'};
 
     // Instantiate and draw our chart, passing in some options.
-    var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));
+    var chart = new google.visualization.BarChart(document.querySelector('#mained_screen'));
     chart.draw(data, options);
   }
 }
@@ -83,7 +86,7 @@ const getStateVotes = async() => {
       }
     });
     tempArr.forEach((x) => {tempObj[x] = (tempObj[x] || 0) + 1;});
-    let stateData = sortNarrnge(tempObj)
+    let stateData = sortNarrnge(tempObj)[0];
     SPObj[state] = stateData;
   });
   window.name = JSON.stringify(SPObj);
@@ -117,11 +120,14 @@ const getEachStateVotes = (state) => {
       var options = {'width':700,'height':466,'title':'Number of Votes','legend':'none'};
 
       // Instantiate and draw our chart, passing in some options.
-      var chart = new google.visualization.BarChart(document.querySelector('#main_screen'));
+      var chart = new google.visualization.BarChart(document.querySelector('#mained_screen'));
       chart.draw(data, options);
     });
+
+    // Upadate Total NUmber of Votes
+    document.querySelector('#totalV').innerHTML = "Total Number of votes = "+sumerd;
   }else{
-    document.querySelector('#main_screen').innerHTML = '';
+    document.querySelector('#mained_screen').innerHTML = '';
     document.querySelector('#headng').innerHTML = 'No Result Data for '+state+' State Presidential Election';
   }
 }

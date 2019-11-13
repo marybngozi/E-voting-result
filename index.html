@@ -24,7 +24,11 @@
     <h2 id="headng">General Presidential Election Result</h2>
   </header>
   <main>
-    <div id="main_screen"></div>
+    <div id="main_screen">
+      <div id="mained_screen"></div>
+      <p id="totalV"></p>
+    </div>
+
     <div id="v_scroll_screen">
       <h3>Select a State</h3>
       <input list="states" id="input_state" name="state" placeholder="Start typing..."><button id="search_btn">GO</button>
@@ -36,8 +40,16 @@
   <footer>
     <p>&copy;2019 Electronic and Computer Engineering Graduates of Nnamdi Azikiwe University Awka, supervised by Engr. Dr. Ezeagwu and Engr. Dr. Akpado</p>
   </footer>
+
+  <script>
+    const {ipcRenderer} = require('electron');
+
+    setTimeout(() => {
+      ipcRenderer.send('app-init')
+    }, 2000)
+  </script>
+
   <!--Load the AJAX API-->
-  <!-- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script> -->
   <script src="scripts/loader.js"></script>
   <script src="scripts/main.js"></script>
   <script type="text/javascript" src="scripts/president.js"></script>
