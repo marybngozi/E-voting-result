@@ -63,7 +63,7 @@ const getVotes = async() => {
     ]);
 
     // Set chart options
-    var options = {'width':700,'height':466,'title':'Number of Votes','legend':'none'};
+    var options = {'width':700,'height':460,'title':'Number of Votes','legend':'none'};
 
     // Instantiate and draw our chart, passing in some options.
     var chart = new google.visualization.BarChart(document.querySelector('#mained_screen'));
@@ -117,7 +117,7 @@ const getEachStateVotes = (state) => {
       ]);
 
       // Set chart options
-      var options = {'width':700,'height':466,'title':'Number of Votes','legend':'none'};
+      var options = {'width':700,'height':460,'title':'Number of Votes','legend':'none'};
 
       // Instantiate and draw our chart, passing in some options.
       var chart = new google.visualization.BarChart(document.querySelector('#mained_screen'));
